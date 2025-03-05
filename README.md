@@ -1,4 +1,5 @@
-# Educational Technologist, Research Support: Technologist specializing in #edtech and enterprise solutions
+# Educational Technologist, Research Support
+# Technologist specializing in #edtech and enterprise solutions
 
 ![Professional Profile Image](https://placehold.co/600x400?text=Professional+Image+Here)
 
