@@ -1,5 +1,9 @@
 # Educational Technologist, Research Support
+<<<<<<< HEAD
 ## Technologist specializing in #edtech and enterprise solutions
+=======
+# Technologist specializing in #edtech and enterprise solutions
+>>>>>>> 1e7be0b923f327773fcb55c1a6e8b77f7a566101
 
 ![Professional Profile Image](https://placehold.co/600x400?text=Professional+Image+Here)
 
