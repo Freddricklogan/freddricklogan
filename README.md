@@ -2,7 +2,7 @@
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
-![Professional Profile](images/profile.jpg)
+<img src="images/profile.jpg" alt="Professional Profile" width="65%">
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
@@ -29,7 +29,7 @@
 - [Resource Links](#resource-links)
 
 ## Portfolio Projects
-![Portfolio Overview](images/portfolio.jpg)
+<img src="images/portfolio.jpg" alt="Portfolio Overview" width="65%">
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -45,7 +45,7 @@
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
 ## Technical Skills
-![Data Science Skills](images/skills.jpg)
+<img src="images/skills.jpg" alt="Data Science Skills" width="65%">
 
 ### Product Management
 ⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
@@ -75,7 +75,7 @@
 ⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
-![Connect Banner](images/connect.jpg)
+<img src="images/connect.jpg" alt="Connect Banner" width="65%">
 
 ### Forked Repositories & Resources
 - [React DnD](https://github.com/Freddricklogan/react-dnd) - Drag and Drop for React
