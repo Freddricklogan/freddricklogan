@@ -1,11 +1,17 @@
 # Freddrick Logan
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
-
 <img src="images/profile.jpg" alt="Professional Profile" width="65%">
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
+
+## Leadership Vision
+As a technologist transitioning to leadership in education, human services, and government, I am focused on bridging technical expertise with strategic vision. I believe in technology as an enabler of:
+- Equitable access to education and services
+- Data-driven decision making in public organizations
+- Sustainable digital transformation
+- Ethical implementation of emerging technologies
 
 ## Areas of Expertise
 - ✨ Technical Career Coaching
@@ -25,6 +31,8 @@
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
+- [Leadership Projects](#leadership-projects)
+- [Academic Papers](#academic-papers)
 - [Technical Skills](#technical-skills)
 - [Resource Links](#resource-links)
 
@@ -43,6 +51,40 @@
 | [PyBank](https://github.com/Freddricklogan/PyBank) | Python script for financial analysis and reporting | Python, CSV Processing |
 | [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data analysis and results reporting | Python, Data Analysis |
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
+
+## Leadership Projects
+<img src="images/leadership.jpg" alt="Leadership Projects" width="65%">
+
+| Project | Description | Focus Areas |
+|---------|-------------|------------|
+| [EdTech Policy Framework](https://github.com/Freddricklogan/EdTech-Policy-Framework) | Comprehensive framework for educational technology policy development | Policy Design, Governance, Compliance |
+| [Education Leadership Dashboard](https://github.com/Freddricklogan/Education-Leadership-Dashboard) | Analytics dashboard for educational administrators | Data Visualization, Decision Support, Resource Management |
+| [Public Service Digital Transformation](https://github.com/Freddricklogan/Public-Service-Digital-Transformation) | Model for digitizing government and educational services | Service Design, Process Engineering, Change Management |
+| [Blockchain Educational Credentials](https://github.com/Freddricklogan/Blockchain-Educational-Credentials) | Verifiable credential system for educational institutions | Security, Trust Systems, Institutional Governance |
+| [AI Ethics Education Framework](https://github.com/Freddricklogan/AI-Ethics-Education-Framework) | Guidelines for ethical AI implementation in education | Ethics, Policy, Responsible Innovation |
+
+## Academic Papers
+<img src="images/academic.jpg" alt="Academic Papers" width="65%">
+
+### Enterprise Architecture
+- [Strategic Technology Integration in Educational Administration](papers/enterprise-architecture/strategic-technology-integration.md) - Framework for implementing enterprise architecture in educational institutions
+- [Digital Transformation Roadmap for Public Organizations](papers/enterprise-architecture/digital-transformation-roadmap.md) - Step-by-step guide for public sector digital transformation
+
+### Cybersecurity
+- [Cybersecurity Governance for Educational Institutions](papers/cybersecurity/cybersecurity-governance.md) - Comprehensive framework for managing cybersecurity in education
+- [Privacy and Security in Educational Data Systems](papers/cybersecurity/privacy-security-educational-data.md) - Best practices for protecting student and institutional data
+
+### Remote Education & Work
+- [Remote Work Transformation in Educational Institutions](papers/remote-education/remote-work-transformation.md) - Research and guidelines based on doctoral studies
+- [Technology Infrastructure for Distributed Learning Environments](papers/remote-education/distributed-learning-infrastructure.md) - Technical requirements for successful remote education
+
+### Educational Leadership
+- [Data-Driven Decision Making in Educational Administration](papers/educational-leadership/data-driven-decision-making.md) - Framework for leveraging analytics in education leadership
+- [Leading Digital Change in Traditional Institutions](papers/educational-leadership/leading-digital-change.md) - Change management strategies for educational leaders
+
+### Technology Governance
+- [AI Ethics in Educational Technology](papers/technology-governance/ai-ethics-education.md) - Ethical framework for AI implementation in educational settings
+- [Blockchain Governance Models for Educational Institutions](papers/technology-governance/blockchain-governance.md) - Governance structures for distributed technologies in education
 
 ## Technical Skills
 <img src="images/skills.jpg" alt="Data Science Skills" width="65%">
@@ -84,6 +126,11 @@
 - [Best Websites for Programmers](https://github.com/Freddricklogan/Best-websites-a-programmer-should-visit) - Useful resources for developers
 - [Sublime Pretty JSON](https://github.com/Freddricklogan/SublimePrettyJson) - JSON plugin for Sublime Text
 
+### Bibliography and References
+- [Academic References](https://github.com/Freddricklogan/freddricklogan/tree/main/bibliography) - Comprehensive list of references for papers and research
+
 ### Connect With Me
-- [LinkedIn](#) - [Email](#) ---
+- [LinkedIn](#) - [Email](#)
+
+---
 #EdTech #EnterpriseArchitecture #DigitalDisruption #Change #ITStrategy #ITGovernance #ResearchDesign #ResearchFrameworks #ResearchAnalysis #StrategicAlignment #DataAnalytics #DataScience #MachineLearning #AI #Cloud #Cybersecurity #FutureofWork #TechCoaching #CareerCoaching
