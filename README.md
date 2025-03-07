@@ -1,3 +1,4 @@
+# Freddrick Logan
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
