@@ -1,7 +1,7 @@
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
-![Professional Profile](https://github.com/Freddricklogan/freddricklogan/raw/main/images/profile_banner.jpg)
+![Professional Profile](https://images.unsplash.com/photo-1484417894907-623942c8ee29?q=80&w=1200&h=300&auto=format&fit=crop)
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
@@ -28,7 +28,7 @@
 - [Resource Links](#resource-links)
 
 ## Portfolio Projects
-![Portfolio Overview](https://github.com/Freddricklogan/freddricklogan/raw/main/images/portfolio/portfolio_banner.jpg)
+![Portfolio Overview](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=1200&h=200&auto=format&fit=crop)
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -44,7 +44,7 @@
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
 ## Technical Skills
-![Data Science Skills](https://github.com/Freddricklogan/freddricklogan/raw/main/images/portfolio/data_science.jpg)
+![Data Science Skills](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&h=200&auto=format&fit=crop)
 
 ### Product Management
 ⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
@@ -74,7 +74,7 @@
 ⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
-![Connect Banner](https://github.com/Freddricklogan/freddricklogan/raw/main/images/portfolio/connect_banner.jpg)
+![Connect Banner](https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1200&h=200&auto=format&fit=crop)
 
 ### Forked Repositories & Resources
 - [React DnD](https://github.com/Freddricklogan/react-dnd) - Drag and Drop for React
