@@ -1,7 +1,7 @@
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
-![Professional Profile](https://avatars.githubusercontent.com/u/490047?v=4)
+![Professional Profile](images/profile_banner.jpg)
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
@@ -28,6 +28,7 @@
 - [Resource Links](#resource-links)
 
 ## Portfolio Projects
+![Portfolio Overview](images/portfolio/portfolio_banner.jpg)
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -43,6 +44,8 @@
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
 ## Technical Skills
+![Data Science Skills](images/portfolio/data_science.jpg)
+
 ### Product Management
 ⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
 
@@ -71,6 +74,8 @@
 ⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
+![Connect Banner](images/portfolio/connect_banner.jpg)
+
 ### Forked Repositories & Resources
 - [React DnD](https://github.com/Freddricklogan/react-dnd) - Drag and Drop for React
 - [Hands-on with Cypress](https://github.com/Freddricklogan/Hands-on-with-Cypress-and-Cypress-Dashboard) - DevOps playground workshops
