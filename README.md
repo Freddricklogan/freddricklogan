@@ -1,7 +1,16 @@
+<p align="center">
+  <img src="images/profile.jpg" alt="Professional Profile" width="65%">
+</p>
+
 # Freddrick Logan
-# Educational Technologist, Research Support
-## Technologist specializing in #edtech and enterprise solutions
-<img src="images/profile.jpg" alt="Professional Profile" width="65%">
+
+## 🔹 Educational Technologist & Research Support
+
+> Bridging technology and education to create transformative learning experiences
+
+### 🌟 Specializing in EdTech and Enterprise Solutions
+
+---
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
@@ -131,6 +140,28 @@ As a technologist transitioning to leadership in education, human services, and 
 
 ### Connect With Me
 - [LinkedIn](#) - [Email](#)
+
+## Technology Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ---
 #EdTech #EnterpriseArchitecture #DigitalDisruption #Change #ITStrategy #ITGovernance #ResearchDesign #ResearchFrameworks #ResearchAnalysis #StrategicAlignment #DataAnalytics #DataScience #MachineLearning #AI #Cloud #Cybersecurity #FutureofWork #TechCoaching #CareerCoaching
