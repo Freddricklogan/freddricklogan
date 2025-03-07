@@ -31,8 +31,8 @@ As a technologist transitioning to leadership in education, human services, and 
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
-- [Leadership Projects](#leadership-projects)
-- [Academic Papers](#academic-papers)
+- [Leadership Initiatives](#leadership-initiatives)
+- [Research & EdTech Frameworks](#research--edtech-frameworks)
 - [Technical Skills](#technical-skills)
 - [Resource Links](#resource-links)
 
@@ -52,8 +52,8 @@ As a technologist transitioning to leadership in education, human services, and 
 | [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data analysis and results reporting | Python, Data Analysis |
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
-## Leadership Projects
-<img src="images/leadership.jpg" alt="Leadership Projects" width="65%">
+## Leadership Initiatives
+<img src="images/leadership.jpg" alt="Leadership Initiatives" width="65%">
 
 | Project | Description | Focus Areas |
 |---------|-------------|------------|
@@ -63,28 +63,28 @@ As a technologist transitioning to leadership in education, human services, and 
 | [Blockchain Educational Credentials](https://github.com/Freddricklogan/Blockchain-Educational-Credentials) | Verifiable credential system for educational institutions | Security, Trust Systems, Institutional Governance |
 | [AI Ethics Education Framework](https://github.com/Freddricklogan/AI-Ethics-Education-Framework) | Guidelines for ethical AI implementation in education | Ethics, Policy, Responsible Innovation |
 
-## Academic Papers
-<img src="images/academic.jpg" alt="Academic Papers" width="65%">
+## Research & EdTech Frameworks
+<img src="images/research.jpg" alt="Research and Frameworks" width="65%">
 
 ### Enterprise Architecture
-- [Strategic Technology Integration in Educational Administration](papers/enterprise-architecture/strategic-technology-integration.md) - Framework for implementing enterprise architecture in educational institutions
-- [Digital Transformation Roadmap for Public Organizations](papers/enterprise-architecture/digital-transformation-roadmap.md) - Step-by-step guide for public sector digital transformation
+- [Strategic Technology Integration in Education](research/enterprise-architecture/strategic-technology-integration.md) - Framework for implementing enterprise architecture in educational institutions
+- [Digital Transformation Roadmap](research/enterprise-architecture/digital-transformation-roadmap.md) - Step-by-step guide for public sector digital transformation
 
 ### Cybersecurity
-- [Cybersecurity Governance for Educational Institutions](papers/cybersecurity/cybersecurity-governance.md) - Comprehensive framework for managing cybersecurity in education
-- [Privacy and Security in Educational Data Systems](papers/cybersecurity/privacy-security-educational-data.md) - Best practices for protecting student and institutional data
+- [Cybersecurity Governance for Education](research/cybersecurity/cybersecurity-governance.md) - Comprehensive framework for managing cybersecurity in education
+- [Privacy and Security in Educational Data](research/cybersecurity/privacy-security-educational-data.md) - Best practices for protecting student and institutional data
 
 ### Remote Education & Work
-- [Remote Work Transformation in Educational Institutions](papers/remote-education/remote-work-transformation.md) - Research and guidelines based on doctoral studies
-- [Technology Infrastructure for Distributed Learning Environments](papers/remote-education/distributed-learning-infrastructure.md) - Technical requirements for successful remote education
+- [Remote Work in Educational Institutions](research/remote-education/remote-work-transformation.md) - Research and guidelines based on doctoral studies
+- [Technology Infrastructure for Distance Learning](research/remote-education/distributed-learning-infrastructure.md) - Technical requirements for successful remote education
 
 ### Educational Leadership
-- [Data-Driven Decision Making in Educational Administration](papers/educational-leadership/data-driven-decision-making.md) - Framework for leveraging analytics in education leadership
-- [Leading Digital Change in Traditional Institutions](papers/educational-leadership/leading-digital-change.md) - Change management strategies for educational leaders
+- [Data-Driven Decision Making for Administrators](research/educational-leadership/data-driven-decision-making.md) - Framework for leveraging analytics in education leadership
+- [Leading Digital Change in Education](research/educational-leadership/leading-digital-change.md) - Change management strategies for educational leaders
 
 ### Technology Governance
-- [AI Ethics in Educational Technology](papers/technology-governance/ai-ethics-education.md) - Ethical framework for AI implementation in educational settings
-- [Blockchain Governance Models for Educational Institutions](papers/technology-governance/blockchain-governance.md) - Governance structures for distributed technologies in education
+- [AI Ethics for Educational Technology](research/technology-governance/ai-ethics-education.md) - Ethical framework for AI implementation in educational settings
+- [Blockchain Governance in Education](research/technology-governance/blockchain-governance.md) - Governance structures for distributed technologies in education
 
 ## Technical Skills
 <img src="images/skills.jpg" alt="Data Science Skills" width="65%">
@@ -126,8 +126,8 @@ As a technologist transitioning to leadership in education, human services, and 
 - [Best Websites for Programmers](https://github.com/Freddricklogan/Best-websites-a-programmer-should-visit) - Useful resources for developers
 - [Sublime Pretty JSON](https://github.com/Freddricklogan/SublimePrettyJson) - JSON plugin for Sublime Text
 
-### Bibliography and References
-- [Academic References](https://github.com/Freddricklogan/freddricklogan/tree/main/bibliography) - Comprehensive list of references for papers and research
+### References and Resources
+- [Industry References](https://github.com/Freddricklogan/freddricklogan/tree/main/references) - Key resources for education technology and leadership
 
 ### Connect With Me
 - [LinkedIn](#) - [Email](#)
