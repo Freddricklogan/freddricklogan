@@ -1,25 +1,25 @@
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
-![Professional Profile](https://images.unsplash.com/photo-1484417894907-623942c8ee29?q=80&w=1200&h=300&auto=format&fit=crop)
+![Professional Profile](https://images.unsplash.com/photo-1510076924683-a9d9796852f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## About Me
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
 
 ## Areas of Expertise
-- ✨ Technical Career Coaching 
-- ✨ Data Visualization/Analytics 
-- ✨ Cyber Security 
-- ✨ Technology Project Management 
-- ✨ Enterprise Architecture 
-- ✨ Financial Technologies 
-- ✨ UX/UI 
-- ✨ Web Development 
-- ✨ Instructional Design 
+- ✨ Technical Career Coaching
+- ✨ Data Visualization/Analytics
+- ✨ Cyber Security
+- ✨ Technology Project Management
+- ✨ Enterprise Architecture
+- ✨ Financial Technologies
+- ✨ UX/UI
+- ✨ Web Development
+- ✨ Instructional Design
 - ✨ Systems Engineering
-- ✨ Technical and Executive Leadership 
-- ✨ Academic Coaching 
-- ✨ Digital Marketing 
+- ✨ Technical and Executive Leadership
+- ✨ Academic Coaching
+- ✨ Digital Marketing
 - ✨ Experienced Remote Worker
 
 ## Table of Contents
@@ -28,7 +28,7 @@
 - [Resource Links](#resource-links)
 
 ## Portfolio Projects
-![Portfolio Overview](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=1200&h=200&auto=format&fit=crop)
+![Portfolio Overview](https://images.unsplash.com/photo-1551288049-bebda4e38e38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -44,7 +44,7 @@
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
 ## Technical Skills
-![Data Science Skills](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&h=200&auto=format&fit=crop)
+![Data Science Skills](https://images.unsplash.com/photo-1517245386804-bb9a35496eae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### Product Management
 ⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
@@ -74,7 +74,7 @@
 ⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
-![Connect Banner](https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1200&h=200&auto=format&fit=crop)
+![Connect Banner](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### Forked Repositories & Resources
 - [React DnD](https://github.com/Freddricklogan/react-dnd) - Drag and Drop for React
@@ -84,8 +84,5 @@
 - [Sublime Pretty JSON](https://github.com/Freddricklogan/SublimePrettyJson) - JSON plugin for Sublime Text
 
 ### Connect With Me
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
-- [Email](#) <!-- Add your email or contact form here -->
-
----
+- [LinkedIn](#) - [Email](#) ---
 #EdTech #EnterpriseArchitecture #DigitalDisruption #Change #ITStrategy #ITGovernance #ResearchDesign #ResearchFrameworks #ResearchAnalysis #StrategicAlignment #DataAnalytics #DataScience #MachineLearning #AI #Cloud #Cybersecurity #FutureofWork #TechCoaching #CareerCoaching
