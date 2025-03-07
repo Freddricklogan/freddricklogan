@@ -1,14 +1,12 @@
 # Educational Technologist, Research Support
 ## Technologist specializing in #edtech and enterprise solutions
 
-![Professional Profile Image](https://placehold.co/600x400?text=Professional+Image+Here)
+![Professional Profile](https://avatars.githubusercontent.com/u/490047?v=4)
 
 ## About Me
-
 ✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
 
 ## Areas of Expertise
-
 - ✨ Technical Career Coaching 
 - ✨ Data Visualization/Analytics 
 - ✨ Cyber Security 
@@ -25,7 +23,6 @@
 - ✨ Experienced Remote Worker
 
 ## Table of Contents
-
 - [Portfolio Projects](#portfolio-projects)
 - [Technical Skills](#technical-skills)
 - [Resource Links](#resource-links)
@@ -41,9 +38,11 @@
 | [Election Analysis](https://github.com/Freddricklogan/Election-Analysis) | Analysis of election data to determine voting patterns and results | Python, Data Analysis |
 | [Cryptocurrency Clustering](https://github.com/Freddricklogan/Crypto-Clustering) | Unsupervised learning to classify cryptocurrencies by features | Python, Scikit-learn, PCA |
 | [UFO Sightings Dashboard](https://github.com/Freddricklogan/UFO-Sightings) | Interactive web dashboard for exploring UFO sighting data | JavaScript, HTML/CSS, D3.js |
+| [PyBank](https://github.com/Freddricklogan/PyBank) | Python script for financial analysis and reporting | Python, CSV Processing |
+| [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data analysis and results reporting | Python, Data Analysis |
+| [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
 ## Technical Skills
-
 ### Product Management
 ⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
 
@@ -51,7 +50,7 @@
 ⚙️🔧 Marketing Strategy, Digital Advertising, Web Analytics, SEO, PPC, Email Marketing
 
 ### Technology Project Management
-⚙️🔧 SDLC, Business Requirements, PMI Framework, GSuite, MS Project, Jira, Agile Scrum, Kaban, Slack, CRMs
+⚙️🔧 SDLC, Business Requirements, PMI Framework, GSuite, MS Project, Jira, Agile Scrum, Kanban, Slack, CRMs
 
 ### Full-Stack Web Development
 ⚙️🔧 HTML 5, CSS 3, JavaScript, jQuery, Responsive Design, Handlebars, ReactJS, MongoDB, MySQL, Node, Express, Git, Heroku
@@ -72,7 +71,6 @@
 ⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
-
 ### Forked Repositories & Resources
 - [React DnD](https://github.com/Freddricklogan/react-dnd) - Drag and Drop for React
 - [Hands-on with Cypress](https://github.com/Freddricklogan/Hands-on-with-Cypress-and-Cypress-Dashboard) - DevOps playground workshops
@@ -85,5 +83,4 @@
 - [Email](#) <!-- Add your email or contact form here -->
 
 ---
-
 #EdTech #EnterpriseArchitecture #DigitalDisruption #Change #ITStrategy #ITGovernance #ResearchDesign #ResearchFrameworks #ResearchAnalysis #StrategicAlignment #DataAnalytics #DataScience #MachineLearning #AI #Cloud #Cybersecurity #FutureofWork #TechCoaching #CareerCoaching
