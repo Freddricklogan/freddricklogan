@@ -50,29 +50,33 @@ As a technologist transitioning to leadership in education, human services, and 
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Earthquake Visualization](https://github.com/Freddricklogan/earthquake-visualization) | Interactive visualization of global earthquake data with multiple map layers and analytical features | JavaScript, Leaflet.js, D3.js |
+| [Secure Password Generator](https://github.com/Freddricklogan/secure-password-generator) | A modern, cryptographically secure password generator application with advanced cybersecurity features | JavaScript, Cryptography, Web Development |
 | [Medical Treatment Analytics](https://github.com/Freddricklogan/MedicalTreatment-Analytics) | Analysis of cancer treatment efficacy using Python data analysis tools | Python, Pandas, Matplotlib, Statistical Analysis |
 | [Financial Analysis](https://github.com/Freddricklogan/Financial-Analysis) | Script analyzing financial records to calculate key business metrics from CSV data | Python, Pandas, Data Visualization |
 | [Deep Learning Charity Predictor](https://github.com/Freddricklogan/DeepLearning-Charity) | Neural network model to predict the success of charity funding applications | TensorFlow, Keras, Scikit-learn |
 | [Mars Web Scraping](https://github.com/Freddricklogan/WebScraping-Mars) | Web application that scrapes various websites for Mars data | Python, Flask, Beautiful Soup, MongoDB |
-| [Election Analysis](https://github.com/Freddricklogan/Election-Analysis) | Analysis of election data to determine voting patterns and results | Python, Data Analysis |
+| [Sentiment Analysis System](https://github.com/Freddricklogan/SentimentAnalysis-System) | Comprehensive text analysis tool for sentiment analysis and emotion detection | Python, NLP, Machine Learning |
 | [Cryptocurrency Clustering](https://github.com/Freddricklogan/Crypto-Clustering) | Unsupervised learning to classify cryptocurrencies by features | Python, Scikit-learn, PCA |
 | [UFO Sightings Dashboard](https://github.com/Freddricklogan/UFO-Sightings) | Interactive web dashboard for exploring UFO sighting data | JavaScript, HTML/CSS, D3.js |
 | [PyBank](https://github.com/Freddricklogan/PyBank) | Python script for financial analysis and reporting | Python, CSV Processing |
 | [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data analysis and results reporting | Python, Data Analysis |
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 
-## Leadership Initiatives
+## 📊 Leadership Initiatives
 <img src="images/leadership.jpg" alt="Leadership Initiatives" width="65%">
 
 | Project | Description | Focus Areas |
 |---------|-------------|------------|
 | [EdTech Policy Framework](https://github.com/Freddricklogan/EdTech-Policy-Framework) | Comprehensive framework for educational technology policy development | Policy Design, Governance, Compliance |
-| [Education Leadership Dashboard](https://github.com/Freddricklogan/Education-Leadership-Dashboard) | Analytics dashboard for educational administrators | Data Visualization, Decision Support, Resource Management |
+| [Education Leadership Dashboard](https://github.com/Freddricklogan/Education-Leadership-Dashboard) | Analytics dashboard for educational administrators for data-driven decisions | Data Visualization, Decision Support, Resource Management |
 | [Public Service Digital Transformation](https://github.com/Freddricklogan/Public-Service-Digital-Transformation) | Model for digitizing government and educational services | Service Design, Process Engineering, Change Management |
-| [Blockchain Educational Credentials](https://github.com/Freddricklogan/Blockchain-Educational-Credentials) | Verifiable credential system for educational institutions | Security, Trust Systems, Institutional Governance |
+| [Blockchain Educational Credentials](https://github.com/Freddricklogan/Blockchain-Educational-Credentials) | Verifiable credential system for educational institutions using blockchain | Security, Trust Systems, Institutional Governance |
 | [AI Ethics Education Framework](https://github.com/Freddricklogan/AI-Ethics-Education-Framework) | Guidelines for ethical AI implementation in education | Ethics, Policy, Responsible Innovation |
+| [Government Service Portal](https://github.com/Freddricklogan/Government-Service-Portal) | User-centered design prototype for government service delivery | UX Design, Service Delivery, Administrative Efficiency |
+| [Remote Education Toolkit](https://github.com/Freddricklogan/Remote-Education-Toolkit) | Collection of web-based tools for educators in remote learning environments | EdTech, Remote Learning, Educational Resources |
 
-## Research & EdTech Frameworks
+## 📚 Research & EdTech Frameworks
 <img src="images/research.jpg" alt="Research and Frameworks" width="65%">
 
 ### Enterprise Architecture
@@ -86,6 +90,7 @@ As a technologist transitioning to leadership in education, human services, and 
 ### Remote Education & Work
 - [Remote Work in Educational Institutions](research/remote-education/remote-work-transformation.md) - Research and guidelines based on doctoral studies
 - [Technology Infrastructure for Distance Learning](research/remote-education/distributed-learning-infrastructure.md) - Technical requirements for successful remote education
+- [Educational LMS Prototype](https://github.com/Freddricklogan/Educational-LMS-Prototype) - Research on modern learning management systems with integrated analytics
 
 ### Educational Leadership
 - [Data-Driven Decision Making for Administrators](research/educational-leadership/data-driven-decision-making.md) - Framework for leveraging analytics in education leadership
