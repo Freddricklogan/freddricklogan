@@ -40,8 +40,10 @@ As a technologist transitioning to leadership in education, human services, and 
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
+- [Developer Tools & Utilities](#developer-tools--utilities)
 - [Leadership Initiatives](#leadership-initiatives)
 - [Research & EdTech Frameworks](#research--edtech-frameworks)
+- [Papers & Publications](#papers--publications)
 - [Technical Skills](#technical-skills)
 - [Resource Links](#resource-links)
 
@@ -62,6 +64,15 @@ As a technologist transitioning to leadership in education, human services, and 
 | [PyBank](https://github.com/Freddricklogan/PyBank) | Python script for financial analysis and reporting | Python, CSV Processing |
 | [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data analysis and results reporting | Python, Data Analysis |
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
+| [Election Analysis](https://github.com/Freddricklogan/Election-Analysis) | Automated election data analysis and results reporting | Python, Data Analysis, CSV Processing |
+| [Tech-Enhanced Learning](https://github.com/Freddricklogan/tech-enhanced-learning) | Course site for technology-enhanced learning with integrated modules and resources | Jekyll, HTML/CSS, GitHub Pages |
+
+## Developer Tools & Utilities
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [CLI Development Tools](https://github.com/Freddricklogan/cli-development-tools) | Suite of 5 CLI tools: API tester, dev server, file organizer, git helper, and project generator | Node.js, Python, Commander, Express |
+| [Python Utilities](https://github.com/Freddricklogan/python-utilities) | Collection of Python tools: blog manager, todo app, and weather application | Python, CLI, File I/O |
 
 ## 📊 Leadership Initiatives
 <img src="images/leadership.jpg" alt="Leadership Initiatives" width="65%">
@@ -99,6 +110,36 @@ As a technologist transitioning to leadership in education, human services, and 
 ### Technology Governance
 - [AI Ethics for Educational Technology](research/technology-governance/ai-ethics-education.md) - Ethical framework for AI implementation in educational settings
 - [Blockchain Governance in Education](research/technology-governance/blockchain-governance.md) - Governance structures for distributed technologies in education
+
+## Papers & Publications
+
+### Cybersecurity
+- [Cybersecurity Governance Framework](papers/cybersecurity/cybersecurity-governance-framework.md) - Comprehensive governance model for educational cybersecurity
+- [Privacy & Security Best Practices](papers/cybersecurity/privacy-security-best-practices.md) - Data protection guidelines for educational institutions
+
+### Enterprise Architecture
+- [Strategic Technology Integration Framework](papers/enterprise-architecture/strategic-technology-integration-framework.md) - Enterprise-level technology adoption strategies
+- [Digital Transformation Guide](papers/enterprise-architecture/digital-transformation-guide.md) - Step-by-step transformation methodology
+- [Blockchain Implementation Guide](papers/enterprise-architecture/implementation-guide.md) - Technical implementation roadmap for blockchain in education
+
+### Remote Education
+- [Remote Work Best Practices](papers/remote-education/remote-work-best-practices.md) - Research-backed guidelines for remote educational work
+- [Distributed Learning Guide](papers/remote-education/distributed-learning-guide.md) - Infrastructure and pedagogy for distance learning
+
+### Educational Leadership
+- [Data-Driven Leadership](papers/educational-leadership/data-driven-leadership.md) - Analytics-driven decision making for education administrators
+- [Digital Change Management](papers/educational-leadership/digital-change-management.md) - Change management strategies for digital transformation in education
+
+### Technology Governance
+- [AI Ethics Guidelines](papers/technology-governance/ai-ethics-guidelines.md) - Ethical framework for AI deployment in educational contexts
+- [Blockchain Governance Framework](papers/technology-governance/blockchain-governance-framework.md) - Governance structures for distributed technologies
+- [Governance Framework](papers/technology-governance/governance-framework.md) - Blockchain educational credentials governance model
+- [Credential Issuance Policy](papers/technology-governance/credential-issuance-policy.md) - Policy framework for blockchain-based credential issuance
+
+### Bibliography & References
+- [Key Resources](bibliography/resources.md) - Annotated bibliography of education technology and leadership resources
+- [Industry References](references/references.md) - Reference materials for EdTech research
+- [Resource Collection](references/resources.md) - Curated resources across enterprise architecture, cybersecurity, and EdTech
 
 ## Technical Skills
 <img src="images/skills.jpg" alt="Data Science Skills" width="65%">
@@ -144,7 +185,7 @@ As a technologist transitioning to leadership in education, human services, and 
 - [Industry References](https://github.com/Freddricklogan/freddricklogan/tree/main/references) - Key resources for education technology and leadership
 
 ### Connect With Me
-- [LinkedIn](#) - [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/freddricklogan/) - [GitHub](https://github.com/Freddricklogan)
 
 ## Technology Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
