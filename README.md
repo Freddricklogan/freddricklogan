@@ -66,6 +66,7 @@ As a technologist transitioning to leadership in education, human services, and 
 | [Belly Button Biodiversity](https://github.com/Freddricklogan/belly-button-challenge) | Interactive dashboard for exploring microbial data | JavaScript, D3.js, Plotly.js |
 | [Election Analysis](https://github.com/Freddricklogan/Election-Analysis) | Automated election data analysis and results reporting | Python, Data Analysis, CSV Processing |
 | [Tech-Enhanced Learning](https://github.com/Freddricklogan/tech-enhanced-learning) | Course site for technology-enhanced learning with integrated modules and resources | Jekyll, HTML/CSS, GitHub Pages |
+| [AWS Terraform Game Day](https://github.com/Freddricklogan/aws-terraform-gameday) | Three-tier AWS infrastructure with VPC, Auto Scaling, and Application Load Balancer, plus practice challenges for cloud troubleshooting | Terraform, AWS, HCL, Nginx |
 
 ## Developer Tools & Utilities
 
@@ -202,6 +203,7 @@ Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, Sci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
