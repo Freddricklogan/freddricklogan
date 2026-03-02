@@ -4,16 +4,16 @@
 
 # Freddrick Logan
 
-## 🔹 Educational Technologist & Research Support
+## Educational Technologist & Research Support
 
 > Bridging technology and education to create transformative learning experiences
 
-### 🌟 Specializing in EdTech and Enterprise Solutions
+### Specializing in EdTech and Enterprise Solutions
 
 ---
 
 ## About Me
-✨ With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
+With years of professional experience in technology, education, business, and research, I have consistently contributed to strategic alignment, project support, and client success (technical + people + product). I am passionate about leveraging technology to enhance learning and work processes. Always committed to impacting education and technology.
 
 ## Leadership Vision
 As a technologist transitioning to leadership in education, human services, and government, I am focused on bridging technical expertise with strategic vision. I believe in technology as an enabler of:
@@ -23,20 +23,20 @@ As a technologist transitioning to leadership in education, human services, and 
 - Ethical implementation of emerging technologies
 
 ## Areas of Expertise
-- ✨ Technical Career Coaching
-- ✨ Data Visualization/Analytics
-- ✨ Cyber Security
-- ✨ Technology Project Management
-- ✨ Enterprise Architecture
-- ✨ Financial Technologies
-- ✨ UX/UI
-- ✨ Web Development
-- ✨ Instructional Design
-- ✨ Systems Engineering
-- ✨ Technical and Executive Leadership
-- ✨ Academic Coaching
-- ✨ Digital Marketing
-- ✨ Experienced Remote Worker
+- Technical Career Coaching
+- Data Visualization/Analytics
+- Cyber Security
+- Technology Project Management
+- Enterprise Architecture
+- Financial Technologies
+- UX/UI
+- Web Development
+- Instructional Design
+- Systems Engineering
+- Technical and Executive Leadership
+- Academic Coaching
+- Digital Marketing
+- Experienced Remote Worker
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
@@ -74,7 +74,7 @@ As a technologist transitioning to leadership in education, human services, and 
 | [CLI Development Tools](https://github.com/Freddricklogan/cli-development-tools) | Suite of 5 CLI tools: API tester, dev server, file organizer, git helper, and project generator | Node.js, Python, Commander, Express |
 | [Python Utilities](https://github.com/Freddricklogan/python-utilities) | Collection of Python tools: blog manager, todo app, and weather application | Python, CLI, File I/O |
 
-## 📊 Leadership Initiatives
+## Leadership Initiatives
 <img src="images/leadership.jpg" alt="Leadership Initiatives" width="65%">
 
 | Project | Description | Focus Areas |
@@ -87,7 +87,7 @@ As a technologist transitioning to leadership in education, human services, and 
 | [Government Service Portal](https://github.com/Freddricklogan/Government-Service-Portal) | User-centered design prototype for government service delivery | UX Design, Service Delivery, Administrative Efficiency |
 | [Remote Education Toolkit](https://github.com/Freddricklogan/Remote-Education-Toolkit) | Collection of web-based tools for educators in remote learning environments | EdTech, Remote Learning, Educational Resources |
 
-## 📚 Research & EdTech Frameworks
+## Research & EdTech Frameworks
 <img src="images/research.jpg" alt="Research and Frameworks" width="65%">
 
 ### Enterprise Architecture
@@ -145,31 +145,31 @@ As a technologist transitioning to leadership in education, human services, and 
 <img src="images/skills.jpg" alt="Data Science Skills" width="65%">
 
 ### Product Management
-⚙️🔧 GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
+GSuite, Google Analytics, JIRA, ProductPlan, Optimizely, Balsamiq, Invision, Trello, SQL, Tableau, Salesforce, ERPs
 
 ### Digital Marketing
-⚙️🔧 Marketing Strategy, Digital Advertising, Web Analytics, SEO, PPC, Email Marketing
+Marketing Strategy, Digital Advertising, Web Analytics, SEO, PPC, Email Marketing
 
 ### Technology Project Management
-⚙️🔧 SDLC, Business Requirements, PMI Framework, GSuite, MS Project, Jira, Agile Scrum, Kanban, Slack, CRMs
+SDLC, Business Requirements, PMI Framework, GSuite, MS Project, Jira, Agile Scrum, Kanban, Slack, CRMs
 
 ### Full-Stack Web Development
-⚙️🔧 HTML 5, CSS 3, JavaScript, jQuery, Responsive Design, Handlebars, ReactJS, MongoDB, MySQL, Node, Express, Git, Heroku
+HTML 5, CSS 3, JavaScript, jQuery, Responsive Design, Handlebars, ReactJS, MongoDB, MySQL, Node, Express, Git, Heroku
 
 ### Data Visualization/Analytics
-⚙️🔧 Advanced Statistics, Data Analytics with Microsoft Excel, R, and Python, Numpy, Pandas, Matplotlib, SQL, MongoDB, D3, Tableau
+Advanced Statistics, Data Analytics with Microsoft Excel, R, and Python, Numpy, Pandas, Matplotlib, SQL, MongoDB, D3, Tableau
 
 ### Data Science
-⚙️🔧 PyTorch, PyCharm, BigQuery, Google Cloud AI, Machine Learning, Hadoop
+PyTorch, PyCharm, BigQuery, Google Cloud AI, Machine Learning, Hadoop
 
 ### Cyber Security
-⚙️🔧 Networking, Wireshark, Router and Switch Configuration, Windows, Linux Systems, Secure Network Design, Vulnerability Assessment, Ethical Hacking with Kali Linux, Metasploit, Burp Suite
+Networking, Wireshark, Router and Switch Configuration, Windows, Linux Systems, Secure Network Design, Vulnerability Assessment, Ethical Hacking with Kali Linux, Metasploit, Burp Suite
 
 ### UX/UI
-⚙️🔧 User-Centric Design Research, Information Architecture, Visual Prototyping, Interactivity, HCI, Canvas, Adobe Photoshop, Adobe Illustrator, Software Automation
+User-Centric Design Research, Information Architecture, Visual Prototyping, Interactivity, HCI, Canvas, Adobe Photoshop, Adobe Illustrator, Software Automation
 
 ### Financial Technologies
-⚙️🔧 Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
+Time-Series Analysis, Financial Ratios, Python 3, Pandas, Matplotlib, NumPy, SciPy, Quantopian, Algorithmic Trading, Blockchain, Web3
 
 ## Resource Links
 <img src="images/connect.jpg" alt="Connect Banner" width="65%">
@@ -208,6 +208,3 @@ As a technologist transitioning to leadership in education, human services, and 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
----
-#EdTech #EnterpriseArchitecture #DigitalDisruption #Change #ITStrategy #ITGovernance #ResearchDesign #ResearchFrameworks #ResearchAnalysis #StrategicAlignment #DataAnalytics #DataScience #MachineLearning #AI #Cloud #Cybersecurity #FutureofWork #TechCoaching #CareerCoaching
