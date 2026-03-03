@@ -82,117 +82,40 @@ Right now I'm focused on leadership in education and government tech -- using wh
 
 <img src="images/research.jpg" alt="Research" width="65%">
 
-<details>
-<summary><strong>Enterprise Architecture</strong></summary>
+Focused on the intersection of technology, education, and organizational strategy. Each research area addresses a real gap in how institutions adopt, govern, and sustain technology investments.
 
-- [Strategic Technology Integration in Education](research/enterprise-architecture/strategic-technology-integration.md)
-- [Digital Transformation Roadmap](research/enterprise-architecture/digital-transformation-roadmap.md)
-</details>
-
-<details>
-<summary><strong>Cybersecurity</strong></summary>
-
-- [Cybersecurity Governance for Education](research/cybersecurity/cybersecurity-governance.md)
-- [Privacy and Security in Educational Data](research/cybersecurity/privacy-security-educational-data.md)
-</details>
-
-<details>
-<summary><strong>Remote Education & Work</strong></summary>
-
-- [Remote Work in Educational Institutions](research/remote-education/remote-work-transformation.md)
-- [Technology Infrastructure for Distance Learning](research/remote-education/distributed-learning-infrastructure.md)
-- [Educational LMS Prototype](https://github.com/Freddricklogan/Educational-LMS-Prototype)
-</details>
-
-<details>
-<summary><strong>Educational Leadership</strong></summary>
-
-- [Data-Driven Decision Making for Administrators](research/educational-leadership/data-driven-decision-making.md)
-- [Leading Digital Change in Education](research/educational-leadership/leading-digital-change.md)
-</details>
-
-<details>
-<summary><strong>Technology Governance</strong></summary>
-
-- [AI Ethics for Educational Technology](research/technology-governance/ai-ethics-education.md)
-- [Blockchain Governance in Education](research/technology-governance/blockchain-governance.md)
-</details>
+| Domain | Focus | Key Work |
+|:-------|:------|:---------|
+| **Enterprise Architecture** | Aligning technology investments with institutional mission. Creating unified blueprints that connect disconnected systems across enrollment, assessment, and compliance. | [Strategic Technology Integration](research/enterprise-architecture/strategic-technology-integration.md) | [Digital Transformation Roadmap](research/enterprise-architecture/digital-transformation-roadmap.md) |
+| **Cybersecurity** | Balancing open academic culture with real protection for student records, financial data, and research IP. Governance frameworks built for limited IT budgets. | [Cybersecurity Governance](research/cybersecurity/cybersecurity-governance.md) | [Privacy & Security in Ed Data](research/cybersecurity/privacy-security-educational-data.md) |
+| **Remote Education** | Rethinking content delivery, assessment, and faculty collaboration for distributed environments. Infrastructure and strategy, not just video conferencing. | [Remote Work Transformation](research/remote-education/remote-work-transformation.md) | [Distance Learning Infrastructure](research/remote-education/distributed-learning-infrastructure.md) | [LMS Prototype](https://github.com/Freddricklogan/Educational-LMS-Prototype) |
+| **Educational Leadership** | Practical frameworks for administrators making data-informed decisions about technology adoption, vendor evaluation, and change management. | [Data-Driven Decision Making](research/educational-leadership/data-driven-decision-making.md) | [Leading Digital Change](research/educational-leadership/leading-digital-change.md) |
+| **Technology Governance** | Policy and oversight structures for AI, blockchain, and emerging tech in education. Encouraging innovation while protecting institutional integrity and equity. | [AI Ethics in EdTech](research/technology-governance/ai-ethics-education.md) | [Blockchain Governance](research/technology-governance/blockchain-governance.md) |
 
 ## Publications
 
-<details>
-<summary><strong>Cybersecurity</strong></summary>
+Applied research translated into actionable frameworks, governance policies, and implementation guides for educational and public-sector organizations.
 
-- [Cybersecurity Governance Framework](papers/cybersecurity/cybersecurity-governance-framework.md)
-- [Privacy & Security Best Practices](papers/cybersecurity/privacy-security-best-practices.md)
-</details>
+| Domain | Description | Papers |
+|:-------|:-----------|:-------|
+| **Cybersecurity** | Risk assessment, incident response, FERPA compliance, and security policies for institutions with limited budgets. | [Governance Framework](papers/cybersecurity/cybersecurity-governance-framework.md) | [Best Practices](papers/cybersecurity/privacy-security-best-practices.md) |
+| **Enterprise Architecture** | System evaluation, migration planning, and platform implementation. Includes blockchain credential verification for the micro-credential era. | [Integration Framework](papers/enterprise-architecture/strategic-technology-integration-framework.md) | [Transformation Guide](papers/enterprise-architecture/digital-transformation-guide.md) | [Blockchain Implementation](papers/enterprise-architecture/implementation-guide.md) |
+| **Remote Education** | Infrastructure requirements, faculty training, student engagement, and equitable access policies for sustainable distributed learning. | [Remote Work Practices](papers/remote-education/remote-work-best-practices.md) | [Distributed Learning](papers/remote-education/distributed-learning-guide.md) |
+| **Educational Leadership** | Decision frameworks for EdTech investment, learning analytics interpretation, and the human side of digital transformation. | [Data-Driven Leadership](papers/educational-leadership/data-driven-leadership.md) | [Change Management](papers/educational-leadership/digital-change-management.md) |
+| **Technology Governance** | Ethical oversight, algorithmic accountability, and credential issuance policy for AI, blockchain, and predictive analytics in education. | [AI Ethics](papers/technology-governance/ai-ethics-guidelines.md) | [Blockchain Governance](papers/technology-governance/blockchain-governance-framework.md) | [Governance Framework](papers/technology-governance/governance-framework.md) | [Credential Policy](papers/technology-governance/credential-issuance-policy.md) |
 
-<details>
-<summary><strong>Enterprise Architecture</strong></summary>
-
-- [Strategic Technology Integration Framework](papers/enterprise-architecture/strategic-technology-integration-framework.md)
-- [Digital Transformation Guide](papers/enterprise-architecture/digital-transformation-guide.md)
-- [Blockchain Implementation Guide](papers/enterprise-architecture/implementation-guide.md)
-</details>
-
-<details>
-<summary><strong>Remote Education</strong></summary>
-
-- [Remote Work Best Practices](papers/remote-education/remote-work-best-practices.md)
-- [Distributed Learning Guide](papers/remote-education/distributed-learning-guide.md)
-</details>
-
-<details>
-<summary><strong>Educational Leadership</strong></summary>
-
-- [Data-Driven Leadership](papers/educational-leadership/data-driven-leadership.md)
-- [Digital Change Management](papers/educational-leadership/digital-change-management.md)
-</details>
-
-<details>
-<summary><strong>Technology Governance</strong></summary>
-
-- [AI Ethics Guidelines](papers/technology-governance/ai-ethics-guidelines.md)
-- [Blockchain Governance Framework](papers/technology-governance/blockchain-governance-framework.md)
-- [Governance Framework](papers/technology-governance/governance-framework.md)
-- [Credential Issuance Policy](papers/technology-governance/credential-issuance-policy.md)
-</details>
-
-<details>
-<summary><strong>Bibliography & References</strong></summary>
-
-- [Key Resources](bibliography/resources.md)
-- [Industry References](references/references.md)
-- [Resource Collection](references/resources.md)
-</details>
+**References**: [Key Resources](bibliography/resources.md) | [Industry References](references/references.md) | [Resource Collection](references/resources.md)
 
 ## Skills
 
-| Domain | Technologies |
-|:-------|:-------------|
-| **Cloud & DevOps** | AWS, Terraform, Docker, Linux, Vagrant, Nginx |
-| **Data Science & ML** | Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, R |
-| **Web Development** | JavaScript, React, Node.js, Express, Flask, MongoDB, MySQL |
-| **Cyber Security** | Wireshark, Kali Linux, Metasploit, Burp Suite, Network Design |
-| **Data Visualization** | Tableau, D3.js, Plotly, Excel, BigQuery |
-| **Project Management** | Agile/Scrum, Kanban, JIRA, MS Project, Salesforce |
-| **FinTech** | Algorithmic Trading, Blockchain, Web3, Time-Series Analysis |
-| **Design & UX** | Figma, Adobe Photoshop, Illustrator, Prototyping |
+| | | | |
+|:--|:--|:--|:--|
+| **Cloud & DevOps** | AWS, Terraform, Docker, Linux, Nginx | **Data Science & ML** | Python, TensorFlow, PyTorch, Scikit-learn, Pandas, R |
+| **Web Development** | JavaScript, React, Node.js, Flask, MongoDB, MySQL | **Cybersecurity** | Wireshark, Kali Linux, Metasploit, Burp Suite |
+| **Data Visualization** | Tableau, D3.js, Plotly, Excel, BigQuery | **Project Management** | Agile/Scrum, Kanban, JIRA, MS Project |
+| **FinTech** | Algorithmic Trading, Blockchain, Web3 | **Design & UX** | Figma, Adobe Photoshop, Illustrator |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 
 ---
 
