@@ -1,1 +1,7 @@
 # Privacy and Security in Educational Data Systems
+
+The volume and sensitivity of data flowing through educational institutions has grown dramatically as learning management systems, student analytics platforms, and cloud-based services become standard infrastructure. Protecting this data requires more than firewalls and access controls -- it requires a governance approach that addresses data lifecycle management from collection through retention and eventual disposal.
+
+FERPA compliance is the floor, not the ceiling. Beyond the federal requirement to protect education records, institutions must navigate state-level student privacy laws, contractual obligations with EdTech vendors, and the growing expectation from students and families that their data will be handled responsibly. Practical compliance means maintaining an inventory of every system that touches student data, documenting data flows between systems, and ensuring that every third-party vendor relationship includes explicit data processing terms.
+
+The most overlooked aspect of educational data privacy is data minimization. Institutions collect far more data than they use, and every unnecessary data point is a liability in the event of a breach. Review what data each system collects and eliminate collection that serves no demonstrated purpose. Implement retention schedules that automatically purge data beyond its useful life. These practices reduce both risk exposure and the scope of any future incident response.

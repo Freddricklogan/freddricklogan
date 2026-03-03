@@ -1,1 +1,7 @@
 # Remote Work Transformation in Educational Institutions
+
+The shift to remote and hybrid work in education represents a structural change, not a temporary accommodation. Institutions that treat remote work as a permanent option rather than an emergency measure are better positioned to recruit and retain talent, reduce facilities costs, and serve geographically dispersed student populations. But making it work requires deliberate investment in infrastructure, management practices, and organizational culture.
+
+Infrastructure for effective remote work goes beyond VPN access and video conferencing. It includes cloud-based collaboration platforms, secure document management, endpoint protection for home devices, and reliable support channels that don't require being on campus. Institutions also need clear policies around data handling on personal devices, acceptable use of home networks, and equipment provisioning. These policies should be developed collaboratively with HR, IT, and the stakeholders who will live with them daily.
+
+The management challenge is real. Supervising remote staff requires shifting focus from presence to outcomes. Establish clear deliverables, regular check-in cadences, and transparent performance expectations. Train managers in remote leadership -- many are managing distributed teams for the first time and default to either micromanagement or disengagement. Neither works. The institutions that do this well invest in management development as a core component of their remote work strategy, not an afterthought.
