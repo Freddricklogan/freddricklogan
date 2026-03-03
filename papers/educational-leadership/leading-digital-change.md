@@ -1,1 +1,7 @@
 # Leading Digital Change in Traditional Institutions
+
+Leading digital change in traditional educational institutions means navigating a unique set of constraints: shared governance, academic freedom, tenure protections, decentralized budgets, and a deep institutional identity tied to physical place and established practices. Technology leaders who succeed in this environment understand that change management is not a supporting activity -- it is the core work.
+
+The most effective approach is to start with problems that people already care about. If faculty are frustrated with a clunky grade submission process, that's an entry point for demonstrating what digital transformation can look like. Solve the problem that matters to them, and you build credibility for the larger vision. Trying to sell a comprehensive transformation agenda to an audience that hasn't yet seen technology make their daily work easier is a losing proposition.
+
+Coalition-building matters more than executive mandates. Identify respected faculty and staff who are naturally inclined toward technology adoption and invest in supporting their success. Their authentic advocacy carries more weight than any strategic plan document. Create visible opportunities for them to share what's working. And when resistance emerges -- and it will -- treat it as valuable feedback rather than an obstacle to overcome. The concerns that surface during pushback often identify real design flaws or implementation gaps that, when addressed, produce a better outcome for everyone.

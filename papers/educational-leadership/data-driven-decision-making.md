@@ -1,1 +1,7 @@
 # Data-Driven Decision Making in Educational Administration
+
+Educational administrators are increasingly expected to justify decisions with data, but the gap between expectation and capability remains wide. Most administrative training programs don't cover statistical literacy, dashboard interpretation, or the design of data collection systems. Leaders find themselves in meetings where institutional research presents sophisticated analyses, and the discussion defaults to "that's interesting" rather than "here's what we should do about it."
+
+Closing this gap requires treating data literacy as a leadership competency, not a technical skill delegated to IR staff. Administrators need to understand what questions data can and cannot answer, how to evaluate whether a metric is meaningful or misleading, and how to translate analytical findings into operational decisions. This doesn't mean every dean needs to run regressions -- it means they need to know when a regression is appropriate and how to interpret the results.
+
+The organizational challenge is equally important. Data-driven decision-making only works when data is trusted, accessible, and timely. If different offices report different enrollment numbers because they define "enrolled" differently, leadership can't trust the data. Establishing shared definitions, centralized data governance, and reliable reporting infrastructure is foundational work that often gets skipped in favor of buying dashboard software. The dashboard is the last step, not the first.
