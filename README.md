@@ -30,7 +30,7 @@ Right now I'm focused on leadership in education and government tech -- using wh
 
 ---
 
-**In this repo:** [Projects](#-projects) | [Tools](#%EF%B8%8F-developer-tools) | [Leadership](#-leadership-initiatives) | [Research](#-research) | [Publications](#-publications) | [Skills](#-skills) | [Connect](#-connect)
+**In this repo:** [Projects](#projects) | [Tools](#developer-tools) | [Leadership](#leadership-initiatives) | [Research](#research) | [Publications](#publications) | [Skills](#skills) | [Connect](#connect)
 
 ---
 
