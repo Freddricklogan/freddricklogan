@@ -55,6 +55,9 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | [PyBank](https://github.com/Freddricklogan/PyBank) | Profit/loss analysis and trend identification | Python | [Report](https://github.com/Freddricklogan/PyBank#readme) |
 | [PyPoll](https://github.com/Freddricklogan/PyPoll) | Election data tabulation and results | Python | [Report](https://github.com/Freddricklogan/PyPoll#readme) |
 | [Tech-Enhanced Learning](https://github.com/Freddricklogan/tech-enhanced-learning) | Course site with modules and resources | Jekyll, GitHub Pages | [Live](https://freddricklogan.github.io/tech-enhanced-learning/) |
+| [Cybersecurity Incident Dashboard](https://github.com/Freddricklogan/cybersecurity-incident-dashboard) | Security operations dashboard with MITRE ATT&CK mapping | JavaScript, Chart.js, D3.js | [Live](https://freddricklogan.github.io/cybersecurity-incident-dashboard/) |
+| [FinTech Risk Analytics](https://github.com/Freddricklogan/fintech-risk-analytics) | Portfolio risk analysis with VaR, Monte Carlo, Black-Scholes | JavaScript, Plotly.js | [Live](https://freddricklogan.github.io/fintech-risk-analytics/) |
+| [Student Engagement API](https://github.com/Freddricklogan/student-engagement-api) | REST API for student engagement tracking and analytics | Python, Flask, SQLite | [Report](https://github.com/Freddricklogan/student-engagement-api#readme) |
 
 ## Developer Tools
 
