@@ -49,31 +49,6 @@ A selection of applied work spanning data science, machine learning, cloud infra
 
 <img src="images/portfolio.jpg" alt="Portfolio" width="65%">
 
-<p align="center">
-  <a href="https://github.com/Freddricklogan/cybersecurity-incident-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=cybersecurity-incident-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Freddricklogan/fintech-risk-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=fintech-risk-analytics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Freddricklogan/aws-terraform-gameday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=aws-terraform-gameday&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Freddricklogan/student-engagement-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=student-engagement-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Freddricklogan/earthquake-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=earthquake-visualization&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Freddricklogan/DeepLearning-Charity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=DeepLearning-Charity&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
-</p>
-
 | Project | What it does | Stack | Demo |
 |:--------|:-------------|:------|:-----|
 | [AWS Terraform Game Day](https://github.com/Freddricklogan/aws-terraform-gameday) | Three-tier AWS infrastructure -- VPC, Auto Scaling, ALB | Terraform, AWS, HCL | [Docs](https://github.com/Freddricklogan/aws-terraform-gameday/tree/main/docs) |
