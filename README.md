@@ -33,10 +33,13 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | Technical Career Coaching | Academic Coaching |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery,sass,ruby,r,tensorflow,pytorch,aws&theme=dark&perline=18" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery&theme=dark&perline=12" alt="Skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,linux,nginx,mongodb,mysql,postgres,sqlite,redis,git,github,figma,ps,ai,vscode,bash,vim&theme=dark&perline=18" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,terraform,docker,kubernetes,linux,nginx,mongodb,mysql,postgres,sqlite&theme=dark&perline=12" alt="Skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=12" alt="Skills" />
 </p>
 
 ---
@@ -46,6 +49,8 @@ Right now I'm focused on leadership in education and government tech -- using wh
 ---
 
 ## Projects
+
+A selection of applied work spanning data science, machine learning, cloud infrastructure, cybersecurity, and full-stack development. Each project reflects a specific problem -- whether it's predicting charity funding outcomes with neural networks, visualizing global seismic activity in real time, or standing up production-grade AWS infrastructure with Terraform. The goal is always the same: turn a real question into a working system that produces clear, actionable results.
 
 <img src="images/portfolio.jpg" alt="Portfolio" width="65%">
 
@@ -97,12 +102,16 @@ Right now I'm focused on leadership in education and government tech -- using wh
 
 ## Developer Tools
 
+Purpose-built utilities that streamline everyday development workflows. Good tooling compounds over time -- a well-designed CLI scaffolder or git helper eliminates repetitive setup and lets you stay focused on the problem at hand. These tools reflect a preference for automation over manual process.
+
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
 | [CLI Development Tools](https://github.com/Freddricklogan/cli-development-tools) | 5 CLI tools: API tester, dev server, file organizer, git helper, project scaffolder | Node.js, Python |
 | [Python Utilities](https://github.com/Freddricklogan/python-utilities) | Blog manager, todo app, weather app | Python |
 
 ## Leadership Initiatives
+
+Technology adoption in education and government fails more often from poor change management than from bad technology. These initiatives address that gap directly -- building prototypes, dashboards, and policy frameworks that help administrators make better decisions, serve constituents more effectively, and govern emerging technologies responsibly. Each project started with a real institutional need and was designed to be adopted, not just demonstrated.
 
 <img src="images/leadership.jpg" alt="Leadership" width="65%">
 
@@ -147,6 +156,8 @@ Applied research translated into actionable frameworks, governance policies, and
 
 ## Skills
 
+The stack below reflects what I actually use to build, deploy, and analyze -- not a wish list. Cloud and DevOps skills come from standing up real infrastructure on AWS. Data science and ML tools come from building predictive models and running experiments. The cybersecurity and FinTech experience comes from applied projects where the stakes required getting the details right.
+
 | | | | |
 |:--|:--|:--|:--|
 | **Cloud & DevOps** | AWS, Terraform, Docker, Linux, Nginx | **Data Science & ML** | Python, TensorFlow, PyTorch, Scikit-learn, Pandas, R |
@@ -158,5 +169,7 @@ Applied research translated into actionable frameworks, governance policies, and
 ---
 
 ## Connect
+
+Open to conversations about EdTech strategy, cloud architecture, research collaboration, and career mentoring. If you're working on something at the intersection of technology and education, I'd like to hear about it.
 
 [LinkedIn](https://www.linkedin.com/in/freddricklogan/) | [GitHub](https://github.com/Freddricklogan) | [References](references/references.md)
