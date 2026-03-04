@@ -31,13 +31,10 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | Technical Career Coaching | Academic Coaching | Research & Strategy |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery&theme=dark&perline=25" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery,tensorflow,pytorch,aws,terraform,docker,kubernetes&theme=dark&perline=18" alt="Skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,terraform,docker,kubernetes,linux,nginx,mongodb,mysql,postgres,sqlite&theme=dark&perline=25" alt="Skills" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=25" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,mongodb,mysql,postgres,sqlite,redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=18" alt="Skills" />
 </p>
 
 ---
