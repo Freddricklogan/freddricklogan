@@ -4,7 +4,11 @@
 
 # Freddrick Logan
 
-**Educational Technologist | Research & Strategy | EdTech Leadership**
+<p align="center">
+  <a href="https://github.com/Freddricklogan">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Educational+Technologist;Cloud+Infrastructure+%26+DevOps;Research+%26+Strategy;EdTech+Leadership" alt="Typing SVG" />
+  </a>
+</p>
 
 > Building better systems at the intersection of technology, education, and public service
 
@@ -28,6 +32,13 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | Cloud Infrastructure & DevOps | Systems Engineering |
 | Technical Career Coaching | Academic Coaching |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,flask,tensorflow,aws,terraform,docker,linux&theme=dark&perline=10" alt="Skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,postgres,figma,d3,vscode,bash,nginx&theme=dark&perline=10" alt="Skills" />
+</p>
+
 ---
 
 **In this repo:** [Projects](#projects) | [Tools](#developer-tools) | [Leadership](#leadership-initiatives) | [Research](#research) | [Publications](#publications) | [Skills](#skills) | [Connect](#connect)
@@ -37,6 +48,31 @@ Right now I'm focused on leadership in education and government tech -- using wh
 ## Projects
 
 <img src="images/portfolio.jpg" alt="Portfolio" width="65%">
+
+<p align="center">
+  <a href="https://github.com/Freddricklogan/cybersecurity-incident-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=cybersecurity-incident-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Freddricklogan/fintech-risk-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=fintech-risk-analytics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Freddricklogan/aws-terraform-gameday">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=aws-terraform-gameday&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Freddricklogan/student-engagement-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=student-engagement-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Freddricklogan/earthquake-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=earthquake-visualization&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Freddricklogan/DeepLearning-Charity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freddricklogan&repo=DeepLearning-Charity&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+</p>
 
 | Project | What it does | Stack | Demo |
 |:--------|:-------------|:------|:-----|
@@ -118,7 +154,6 @@ Applied research translated into actionable frameworks, governance policies, and
 | **Data Visualization** | Tableau, D3.js, Plotly, Excel, BigQuery | **Project Management** | Agile/Scrum, Kanban, JIRA, MS Project |
 | **FinTech** | Algorithmic Trading, Blockchain, Web3 | **Design & UX** | Figma, Adobe Photoshop, Illustrator |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 
 ---
 
