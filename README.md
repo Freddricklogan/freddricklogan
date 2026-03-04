@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Freddricklogan">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Educational+Technologist;Cloud+Infrastructure+%26+DevOps;Research+%26+Strategy;EdTech+Leadership" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Educational+Technologist;Cloud+Infrastructure+%26+DevOps;Research+%26+Strategy;EdTech+Leadership;Data+Science+%26+Machine+Learning;Full-Stack+Web+Development;Cybersecurity+%26+Risk+Analysis;Enterprise+Architecture;Financial+Technology+%26+Analytics;Instructional+Design+%26+UX" alt="Typing SVG" />
   </a>
 </p>
 
