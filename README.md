@@ -22,24 +22,22 @@ Right now I'm focused on leadership in education and government tech -- using wh
 
 ## Areas of Expertise
 
-| | |
-|:--|:--|
-| Technical & Executive Leadership | Data Visualization & Analytics |
-| Technology Project Management | Enterprise Architecture |
-| Cyber Security | Full-Stack Web Development |
-| Instructional Design | UX/UI Design |
-| Financial Technologies | Digital Marketing |
-| Cloud Infrastructure & DevOps | Systems Engineering |
-| Technical Career Coaching | Academic Coaching |
+| | | |
+|:--|:--|:--|
+| Technical & Executive Leadership | Data Visualization & Analytics | Enterprise Architecture |
+| Technology Project Management | Cyber Security | Full-Stack Web Development |
+| Instructional Design | UX/UI Design | Financial Technologies |
+| Cloud Infrastructure & DevOps | Systems Engineering | Digital Marketing |
+| Technical Career Coaching | Academic Coaching | Research & Strategy |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery&theme=dark&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery&theme=dark&perline=25" alt="Skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,terraform,docker,kubernetes,linux,nginx,mongodb,mysql,postgres,sqlite&theme=dark&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,terraform,docker,kubernetes,linux,nginx,mongodb,mysql,postgres,sqlite&theme=dark&perline=25" alt="Skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=25" alt="Skills" />
 </p>
 
 ---
