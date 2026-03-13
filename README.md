@@ -30,11 +30,23 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | Cloud Infrastructure & DevOps | Systems Engineering | Digital Marketing |
 | Technical Career Coaching | Academic Coaching | Research & Strategy |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,flask,d3,bootstrap,jquery,tensorflow,pytorch,aws,terraform,docker,kubernetes&theme=dark&perline=18" alt="Skills" />
+<p align="center"><strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,r,ruby,bash,html,css,sass&theme=dark&perline=9" alt="Languages" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,mongodb,mysql,postgres,sqlite,redis,git,github,figma,ps,ai,vscode,bash,vim,sass,ruby,r&theme=dark&perline=18" alt="Skills" />
+<p align="center"><strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,d3,bootstrap,jquery&theme=dark&perline=9" alt="Frontend" />
+</p>
+<p align="center"><strong>Backend & Databases</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,sqlite,redis,nginx&theme=dark&perline=9" alt="Backend & Databases" />
+</p>
+<p align="center"><strong>Cloud & DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark&perline=9" alt="Cloud & DevOps" />
+</p>
+<p align="center"><strong>AI & Machine Learning</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=9" alt="AI & ML" />
+</p>
+<p align="center"><strong>Tools & Design</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,ps,ai&theme=dark&perline=9" alt="Tools & Design" />
 </p>
 
 ---
