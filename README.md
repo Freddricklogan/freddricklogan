@@ -30,24 +30,14 @@ Right now I'm focused on leadership in education and government tech -- using wh
 | Cloud Infrastructure & DevOps | Systems Engineering | Digital Marketing |
 | Technical Career Coaching | Academic Coaching | Research & Strategy |
 
-<p align="center"><strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,r,ruby,bash,html,css,sass&theme=dark&perline=9" alt="Languages" />
-</p>
-<p align="center"><strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,d3,bootstrap,jquery&theme=dark&perline=9" alt="Frontend" />
-</p>
-<p align="center"><strong>Backend & Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,sqlite,redis,nginx&theme=dark&perline=9" alt="Backend & Databases" />
-</p>
-<p align="center"><strong>Cloud & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark&perline=9" alt="Cloud & DevOps" />
-</p>
-<p align="center"><strong>AI & Machine Learning</strong><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=9" alt="AI & ML" />
-</p>
-<p align="center"><strong>Tools & Design</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,ps,ai&theme=dark&perline=9" alt="Tools & Design" />
-</p>
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,r,ruby,bash,html,css,sass&theme=dark&perline=9" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,d3,bootstrap,jquery&theme=dark&perline=9" alt="Frontend" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,sqlite,redis,nginx&theme=dark&perline=9" alt="Backend & Databases" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark&perline=9" alt="Cloud & DevOps" /> |
+| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=9" alt="AI & ML" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,ps,ai&theme=dark&perline=9" alt="Tools & Design" /> |
 
 ---
 
