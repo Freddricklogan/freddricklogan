@@ -12,15 +12,17 @@
 
 > Building better systems at the intersection of technology, education, and public service
 
+**[About](#about)** | **[Projects](#projects)** | **[Tools](#developer-tools)** | **[Leadership](#leadership-initiatives)** | **[Research](#research)** | **[Publications](#publications)** | **[Skills](#skills)** | **[Connect](#connect)**
+
 ---
 
-## About
+# About
 
 I've spent my career working across technology, education, business, and research -- always at the intersection where these fields create real impact. Whether it's aligning a technical strategy, supporting a product launch, or coaching someone through a career pivot, I bring the same focus: get the details right, keep people at the center, and build things that actually work.
 
 Right now I'm focused on leadership in education and government tech -- using what I know about systems, data, and design to help organizations modernize without losing sight of the people they serve.
 
-## Areas of Expertise
+# Areas of Expertise
 
 | | | |
 |:--|:--|:--|
@@ -41,11 +43,7 @@ Right now I'm focused on leadership in education and government tech -- using wh
 
 ---
 
-**In this repo:** [Projects](#projects) | [Tools](#developer-tools) | [Leadership](#leadership-initiatives) | [Research](#research) | [Publications](#publications) | [Skills](#skills) | [Connect](#connect)
-
----
-
-## Projects
+# Projects
 
 A selection of applied work spanning data science, machine learning, cloud infrastructure, cybersecurity, and full-stack development. Each project reflects a specific problem -- whether it's predicting charity funding outcomes with neural networks, visualizing global seismic activity in real time, or standing up production-grade AWS infrastructure with Terraform. The goal is always the same: turn a real question into a working system that produces clear, actionable results.
 
@@ -81,7 +79,7 @@ A selection of applied work spanning data science, machine learning, cloud infra
 | [Cloud Architecture Designer](https://github.com/Freddricklogan/cloud-architecture-designer) | Drag-and-drop AWS architecture builder with Well-Architected Framework review | JavaScript, HTML5 Canvas | [Live](https://freddricklogan.github.io/cloud-architecture-designer/) |
 | [Serverless Workflow Simulator](https://github.com/Freddricklogan/serverless-workflow-simulator) | Event-driven Lambda pipeline simulation with cold start and cost analysis | JavaScript, Chart.js | [Live](https://freddricklogan.github.io/serverless-workflow-simulator/) |
 
-## Developer Tools
+# Developer Tools
 
 Purpose-built utilities that streamline everyday development workflows. Good tooling compounds over time -- a well-designed CLI scaffolder or git helper eliminates repetitive setup and lets you stay focused on the problem at hand. These tools reflect a preference for automation over manual process.
 
@@ -90,7 +88,7 @@ Purpose-built utilities that streamline everyday development workflows. Good too
 | [CLI Development Tools](https://github.com/Freddricklogan/cli-development-tools) | 5 CLI tools: API tester, dev server, file organizer, git helper, project scaffolder | Node.js, Python |
 | [Python Utilities](https://github.com/Freddricklogan/python-utilities) | Blog manager, todo app, weather app | Python |
 
-## Leadership Initiatives
+# Leadership Initiatives
 
 Technology adoption in education and government fails more often from poor change management than from bad technology. These initiatives address that gap directly -- building prototypes, dashboards, and policy frameworks that help administrators make better decisions, serve constituents more effectively, and govern emerging technologies responsibly. Each project started with a real institutional need and was designed to be adopted, not just demonstrated.
 
@@ -107,7 +105,7 @@ Technology adoption in education and government fails more often from poor chang
 | [Blockchain Educational Credentials](https://github.com/Freddricklogan/Blockchain-Educational-Credentials) | Verifiable credential system on blockchain | Security, Trust | [Docs](https://github.com/Freddricklogan/Blockchain-Educational-Credentials#readme) |
 | [AI Ethics Education Framework](https://github.com/Freddricklogan/AI-Ethics-Education-Framework) | Practical guidelines for ethical AI in education | Ethics, Innovation | [Docs](https://github.com/Freddricklogan/AI-Ethics-Education-Framework#readme) |
 
-## Research
+# Research
 
 <img src="images/research.jpg" alt="Research" width="65%">
 
@@ -121,7 +119,7 @@ Focused on the intersection of technology, education, and organizational strateg
 | **Educational Leadership** | Practical frameworks for administrators making data-informed decisions about technology adoption, vendor evaluation, and change management. | [Data-Driven Decision Making](research/educational-leadership/data-driven-decision-making.md) | [Leading Digital Change](research/educational-leadership/leading-digital-change.md) |
 | **Technology Governance** | Policy and oversight structures for AI, blockchain, and emerging tech in education. Encouraging innovation while protecting institutional integrity and equity. | [AI Ethics in EdTech](research/technology-governance/ai-ethics-education.md) | [Blockchain Governance](research/technology-governance/blockchain-governance.md) |
 
-## Publications
+# Publications
 
 Applied research translated into actionable frameworks, governance policies, and implementation guides for educational and public-sector organizations.
 
@@ -135,7 +133,7 @@ Applied research translated into actionable frameworks, governance policies, and
 
 **References**: [Key Resources](bibliography/resources.md) | [Industry References](references/references.md) | [Resource Collection](references/resources.md)
 
-## Skills
+# Skills
 
 The stack below reflects what I actually use to build, deploy, and analyze -- not a wish list. Cloud and DevOps skills come from standing up real infrastructure on AWS. Data science and ML tools come from building predictive models and running experiments. The cybersecurity and FinTech experience comes from applied projects where the stakes required getting the details right.
 
@@ -149,7 +147,7 @@ The stack below reflects what I actually use to build, deploy, and analyze -- no
 
 ---
 
-## Connect
+# Connect
 
 Open to conversations about EdTech strategy, cloud architecture, research collaboration, and career mentoring. If you're working on something at the intersection of technology and education, I'd like to hear about it.
 
