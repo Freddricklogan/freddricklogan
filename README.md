@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="images/profile.jpg" width="400" alt="Portrait of Freddrick Logan" />
+  <img src="images/profile.jpg" width="500" alt="Portrait of Freddrick Logan" />
 </p>
 
 <h1 align="center">Freddrick Logan</h1>
 <h2 align="center">Educational Technologist &nbsp;&middot;&nbsp; Technology Leader &nbsp;&middot;&nbsp; Researcher</h2>
-<h3 align="center"><i>Professional focus areas: Educational Technologist; Cloud Architecture and DevOps; Data Science and Machine Learning; Instructional Design and Research</i></h3>
+
+<p align="center">
+  <a href="https://github.com/Freddricklogan">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=1600&pause=500&color=002147&center=true&vCenter=true&width=640&lines=Educator;Technologist;Applied+Researcher;Business+Architect;Systems+Designer;Strategic+Leader" alt="Rotating roles: Educator; Technologist; Applied Researcher; Business Architect; Systems Designer; Strategic Leader" />
+  </a>
+</p>
+
+<h3 align="center"><i>&ldquo;Experienced practitioner building technical systems, leading technical practitioners, and designing the programs that connect both&rdquo;</i></h3>
 
 <h3 align="center">
   <a href="#executive-summary">Executive Summary</a> &nbsp;|&nbsp;
@@ -28,7 +35,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 
 ## Project Portfolio
 
-**The Executive Index.** Select a category to expand it.
+**Project and Framework Index.** Select a category to expand it.
 
 - [I. Data Architecture &amp; Machine Learning](#data-ml)
 - [II. Cloud Infrastructure &amp; Security](#cloud-security)
@@ -106,7 +113,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#data-ml">&#8679; Close above section</a>
 </details>
 
 <details id="cloud-security">
@@ -151,7 +158,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#cloud-security">&#8679; Close above section</a>
 </details>
 
 <details id="edtech-systems">
@@ -208,7 +215,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#edtech-systems">&#8679; Close above section</a>
 </details>
 
 <details id="learning-resources">
@@ -257,7 +264,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#learning-resources">&#8679; Close above section</a>
 </details>
 
 <details id="developer-tooling">
@@ -274,7 +281,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#developer-tooling">&#8679; Close above section</a>
 </details>
 
 ---
