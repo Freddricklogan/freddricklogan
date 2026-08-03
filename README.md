@@ -12,7 +12,7 @@
 
 > Building better systems at the intersection of technology, education, and public service
 
-**[About](#about)** | **[Projects](#projects)** | **[Tools](#developer-tools)** | **[Leadership](#leadership-initiatives)** | **[Research](#research)** | **[Publications](#publications)** | **[Skills](#skills)** | **[Connect](#connect)**
+**[About](#about)** | **[Projects](#projects)** | **[Tools](#developer-tools)** | **[Leadership](#leadership-initiatives)** | **[Research](#research)** | **[Publications](#publications)** | **[Resources](#resources)** | **[Skills](#skills)** | **[Connect](#connect)**
 
 ---
 
@@ -133,16 +133,54 @@ Applied research translated into actionable frameworks, governance policies, and
 
 **References**: [Key Resources](bibliography/resources.md) | [Industry References](references/references.md) | [Resource Collection](references/resources.md)
 
+---
+
+# Resources
+
+A library of rigorous, interactive graduate-level resources I authored on educational research, policy, leadership, and instructional design. Each is a live, interactive tool -- not just an article -- built to be genuinely useful to educators, researchers, and leaders. **[Explore the full resource hub](https://freddricklogan.github.io/resources/)**.
+
+| Resource | Focus | Open |
+|:---------|:------|:-----|
+| [Qualitative Research](https://freddricklogan.github.io/qualitative-research-methods/) | Paradigms, the five approaches, sampling, coding & analysis, trustworthiness | [Live](https://freddricklogan.github.io/qualitative-research-methods/) |
+| [Quantitative Inquiry in Education](https://freddricklogan.github.io/quantitative-inquiry/) | Measurement, sampling, inference, effect size, critical reading of results | [Live](https://freddricklogan.github.io/quantitative-inquiry/) |
+| [Educational Policy Analysis & Program Evaluation](https://freddricklogan.github.io/educational-policy-analysis/) | Decision analysis, logic models, program evaluation, resource allocation, equity | [Live](https://freddricklogan.github.io/educational-policy-analysis/) |
+| [Educational Leadership & School Improvement](https://freddricklogan.github.io/educational-leadership/) | Organizational theory, leadership, improvement science, education law, systemic equity | [Live](https://freddricklogan.github.io/educational-leadership/) |
+| [Higher Education Leadership & Governance](https://freddricklogan.github.io/higher-education-leadership/) | Institution types, governance, finance, student development, legal foundations | [Live](https://freddricklogan.github.io/higher-education-leadership/) |
+| [Global Higher Education & Internationalization](https://freddricklogan.github.io/global-higher-education/) | Internationalization, mobility, comparative systems, study-abroad leadership | [Live](https://freddricklogan.github.io/global-higher-education/) |
+| [Teaching, Teacher Education & Curriculum](https://freddricklogan.github.io/teaching-and-teacher-education/) | Pedagogy, teacher development, mathematics & science education, curriculum design | [Live](https://freddricklogan.github.io/teaching-and-teacher-education/) |
+| [Online Course Design Studio](https://freddricklogan.github.io/online-course-design/) | Instructional design, assessment, HyFlex/blended, facilitation & communication | [Live](https://freddricklogan.github.io/online-course-design/) |
+| [Accessibility & UDL Toolkit](https://freddricklogan.github.io/accessibility-udl/) | WCAG, Universal Design for Learning, accessible documents & video, contrast checker | [Live](https://freddricklogan.github.io/accessibility-udl/) |
+
+---
+
 # Skills
 
-The stack below reflects what I actually use to build, deploy, and analyze -- not a wish list. Cloud and DevOps skills come from standing up real infrastructure on AWS. Data science and ML tools come from building predictive models and running experiments. The cybersecurity and FinTech experience comes from applied projects where the stakes required getting the details right.
+The stack below reflects what I actually use to build, deploy, teach, and analyze -- not a wish list. The technical skills come from standing up real infrastructure, training models, and shipping applications. The education, research, and instructional-design skills come from graduate study and applied practice in teaching, policy analysis, and learning design. Across both, the discipline is the same: get the details right and keep people at the center.
 
-| | | | |
-|:--|:--|:--|:--|
-| **Cloud & DevOps** | AWS, Terraform, Docker, Linux, Nginx | **Data Science & ML** | Python, TensorFlow, PyTorch, Scikit-learn, Pandas, R |
-| **Web Development** | JavaScript, React, Node.js, Flask, MongoDB, MySQL | **Cybersecurity** | Wireshark, Kali Linux, Metasploit, Burp Suite |
-| **Data Visualization** | Tableau, D3.js, Plotly, Excel, BigQuery | **Project Management** | Agile/Scrum, Kanban, JIRA, MS Project |
-| **FinTech** | Algorithmic Trading, Blockchain, Web3 | **Design & UX** | Figma, Adobe Photoshop, Illustrator |
+**Technology, data & engineering**
+
+| Category | Skills |
+|:---------|:-------|
+| **Cloud & DevOps** | AWS, Terraform, Docker, Kubernetes, Linux, Nginx, CI/CD, GitHub Actions, serverless / Lambda, infrastructure as code |
+| **Data Science & ML** | Python, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, R, Jupyter, NLP, deep learning, feature engineering |
+| **Web Development** | JavaScript, TypeScript, React, Node.js, Express, Flask, HTML5, CSS3, MongoDB, MySQL, PostgreSQL, REST APIs |
+| **Data Visualization** | Tableau, D3.js, Plotly, Chart.js, Leaflet, Matplotlib, Excel, BigQuery |
+| **Cybersecurity** | Wireshark, Kali Linux, Metasploit, Burp Suite, SIEM, threat modeling, incident response, NIST, FERPA compliance |
+| **FinTech** | Algorithmic trading, blockchain, Web3, Monte Carlo simulation, portfolio risk analytics |
+| **Project Management** | Agile / Scrum, Kanban, JIRA, MS Project, roadmapping, stakeholder management, vendor evaluation |
+| **Design & UX** | Figma, Adobe Photoshop, Illustrator, wireframing, design systems, responsive design |
+
+**Education, learning design & research**
+
+| Category | Skills |
+|:---------|:-------|
+| **Instructional Design** | ADDIE, Backward Design (UbD), Bloom's Taxonomy, Gagné's Nine Events, Merrill's First Principles, storyboarding, rubric & assessment design, Quality Matters |
+| **Online & Blended Learning** | LMS (Canvas, Blackboard, Moodle), HyFlex & blended design, Community of Inquiry, async/sync facilitation, multimedia learning principles |
+| **Accessibility & UDL** | WCAG 2.2, Section 508, Universal Design for Learning (CAST), accessible documents & video, captioning, VPAT, assistive technology |
+| **Educational Research** | Qualitative & quantitative methods, research design, thematic analysis, grounded theory, program evaluation, survey design, statistics (R, SPSS) |
+| **Educational Leadership & Policy** | Policy analysis, program evaluation, logic models, decision analysis, improvement science (PDSA), change management, shared governance, strategic planning |
+| **Higher Education** | Enrollment management, student development theory, accreditation & assessment, governance, internationalization |
+| **Teaching & Curriculum** | Pedagogy & high-leverage practices, culturally responsive teaching, curriculum design & mapping, standards alignment (NGSS, NCTM, InTASC), formative assessment |
 
 
 ---
