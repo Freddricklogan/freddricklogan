@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Freddricklogan">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=1600&pause=500&color=002147&center=true&vCenter=true&width=640&lines=Educator;Technologist;Applied+Researcher;Business+Architect;Systems+Designer;Strategic+Leader" alt="Rotating roles: Educator; Technologist; Applied Researcher; Business Architect; Systems Designer; Strategic Leader" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=640&lines=Educator;Technologist;Applied+Researcher;Business+Architect;Systems+Designer;Strategic+Leader" alt="Rotating roles: Educator; Technologist; Applied Researcher; Business Architect; Systems Designer; Strategic Leader" />
   </a>
 </p>
 
