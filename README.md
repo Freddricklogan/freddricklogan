@@ -43,7 +43,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 - [IV. Interactive Learning Resources](#learning-resources)
 - [V. Developer Tooling](#developer-tooling)
 
-<details id="data-ml">
+<details id="data-ml" name="portfolio">
 <summary><h2>I. Data Architecture &amp; Machine Learning</h2></summary>
 <br>
 <table border="0">
@@ -113,10 +113,10 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#data-ml">&#8679; Close above section</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#data-ml">&#8679; Back to section top</a>
 </details>
 
-<details id="cloud-security">
+<details id="cloud-security" name="portfolio">
 <summary><h2>II. Cloud Infrastructure &amp; Security</h2></summary>
 <br>
 <table border="0">
@@ -158,10 +158,10 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#cloud-security">&#8679; Close above section</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#cloud-security">&#8679; Back to section top</a>
 </details>
 
-<details id="edtech-systems">
+<details id="edtech-systems" name="portfolio">
 <summary><h2>III. Educational Technology Systems</h2></summary>
 <br>
 <table border="0">
@@ -215,10 +215,10 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#edtech-systems">&#8679; Close above section</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#edtech-systems">&#8679; Back to section top</a>
 </details>
 
-<details id="learning-resources">
+<details id="learning-resources" name="portfolio">
 <summary><h2>IV. Interactive Learning Resources</h2></summary>
 <br>
 <table border="0">
@@ -264,10 +264,10 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#learning-resources">&#8679; Close above section</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#learning-resources">&#8679; Back to section top</a>
 </details>
 
-<details id="developer-tooling">
+<details id="developer-tooling" name="portfolio">
 <summary><h2>V. Developer Tooling</h2></summary>
 <br>
 <table border="0">
@@ -281,7 +281,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#developer-tooling">&#8679; Close above section</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#developer-tooling">&#8679; Back to section top</a>
 </details>
 
 ---
