@@ -41,67 +41,67 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=neural-network-playground&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Neural Network Playground" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Unsplash technology photograph for Neural Network Playground" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/neural-network-playground/">Neural Network Playground</a></b><br />Build, train, and visualize neural networks in the browser with live decision boundaries.<br /><sub><b>Tech:</b> JavaScript, Canvas API, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=DeepLearning-Charity&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Deep Learning Charity Predictor" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=2" width="150" alt="Technology photograph for Deep Learning Charity Predictor" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/DeepLearning-Charity">Deep Learning Charity Predictor</a></b><br />Neural network that predicts nonprofit funding success from application data.<br /><sub><b>Tech:</b> TensorFlow, Keras, Scikit-learn</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=SentimentAnalysis-System&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Sentiment Analysis System" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=3" width="150" alt="Technology photograph for Sentiment Analysis System" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/SentimentAnalysis-System">Sentiment Analysis System</a></b><br />NLP engine for sentiment, emotion, and aspect-based text analysis.<br /><sub><b>Tech:</b> Python, NLP, ML</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=epidemic-modeling-dashboard&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Epidemic Modeling Dashboard" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=4" width="150" alt="Technology photograph for Epidemic Modeling Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/epidemic-modeling-dashboard/">Epidemic Modeling Dashboard</a></b><br />SIR / SEIR / SIRD / SIRV disease simulator with an RK4 solver and sensitivity analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js, RK4</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=monte-carlo-simulator&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Monte Carlo Simulator" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=5" width="150" alt="Technology photograph for Monte Carlo Simulator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/monte-carlo-simulator/">Monte Carlo Simulator</a></b><br />Options pricing, Pi estimation, Brownian motion, and portfolio VaR via Monte Carlo methods.<br /><sub><b>Tech:</b> JavaScript, Chart.js, Web Workers</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=fintech-risk-analytics&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for FinTech Risk Analytics" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=6" width="150" alt="Technology photograph for FinTech Risk Analytics" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/fintech-risk-analytics/">FinTech Risk Analytics</a></b><br />Portfolio risk analysis with Value-at-Risk, Monte Carlo, and Black-Scholes pricing.<br /><sub><b>Tech:</b> JavaScript, Plotly.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=MedicalTreatment-Analytics&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Medical Treatment Analytics" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=7" width="150" alt="Technology photograph for Medical Treatment Analytics" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/MedicalTreatment-Analytics">Medical Treatment Analytics</a></b><br />Statistical analysis of cancer-treatment efficacy across regimens.<br /><sub><b>Tech:</b> Python, Pandas, Matplotlib</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=Crypto-Clustering&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Crypto Clustering" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=8" width="150" alt="Technology photograph for Crypto Clustering" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Crypto-Clustering">Crypto Clustering</a></b><br />Unsupervised learning to classify cryptocurrencies by market behavior.<br /><sub><b>Tech:</b> Python, Scikit-learn, PCA</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=Financial-Analysis&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Financial Analysis" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=9" width="150" alt="Technology photograph for Financial Analysis" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Financial-Analysis">Financial Analysis</a></b><br />Automated financial-records analysis and reporting pipeline.<br /><sub><b>Tech:</b> Python, Pandas</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=PyBank&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for PyBank" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=10" width="150" alt="Technology photograph for PyBank" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/PyBank/">PyBank</a></b><br />Profit-and-loss analysis with trend identification over financial time series.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=PyPoll&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for PyPoll" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=11" width="150" alt="Technology photograph for PyPoll" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/PyPoll">PyPoll</a></b><br />Automated election-data tabulation and results reporting.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=Election-Analysis&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Election Analysis" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=12" width="150" alt="Technology photograph for Election Analysis" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Election-Analysis">Election Analysis</a></b><br />Vote-counting and election-reporting automation.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=WebScraping-Mars&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Mars Web Scraping" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=13" width="150" alt="Technology photograph for Mars Web Scraping" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/WebScraping-Mars">Mars Web Scraping</a></b><br />Scrapes and aggregates Mars-mission data into a live dashboard.<br /><sub><b>Tech:</b> Python, Flask, BeautifulSoup, MongoDB</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=earthquake-visualization&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Earthquake Visualization" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=14" width="150" alt="Technology photograph for Earthquake Visualization" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/earthquake-visualization/">Earthquake Visualization</a></b><br />Real-time interactive map of global seismic activity.<br /><sub><b>Tech:</b> JavaScript, Leaflet.js, D3.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=belly-button-challenge&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Belly Button Biodiversity" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=15" width="150" alt="Technology photograph for Belly Button Biodiversity" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/belly-button-challenge/">Belly Button Biodiversity</a></b><br />Interactive explorer for microbial biodiversity datasets.<br /><sub><b>Tech:</b> JavaScript, D3.js, Plotly.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/glass/png?seed=UFO-Sightings&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for UFO Sightings Dashboard" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=16" width="150" alt="Technology photograph for UFO Sightings Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/UFO-Sightings/">UFO Sightings Dashboard</a></b><br />Filterable dashboard for exploring UFO sighting records.<br /><sub><b>Tech:</b> JavaScript, D3.js</sub></td>
 </tr>
 </table>
@@ -114,39 +114,39 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=cloud-architecture-designer&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Cloud Architecture Designer" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Unsplash technology photograph for Cloud Architecture Designer" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/cloud-architecture-designer/">Cloud Architecture Designer</a></b><br />Drag-and-drop AWS architecture builder with an automated Well-Architected review.<br /><sub><b>Tech:</b> JavaScript, HTML5 Canvas</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=aws-terraform-gameday&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for AWS Terraform Game Day" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=18" width="150" alt="Technology photograph for AWS Terraform Game Day" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/aws-terraform-gameday">AWS Terraform Game Day</a></b><br />Production-grade three-tier AWS infrastructure &mdash; VPC, Auto Scaling, ALB &mdash; as code.<br /><sub><b>Tech:</b> Terraform, AWS, HCL</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=serverless-workflow-simulator&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Serverless Workflow Simulator" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=19" width="150" alt="Technology photograph for Serverless Workflow Simulator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/serverless-workflow-simulator/">Serverless Workflow Simulator</a></b><br />Event-driven Lambda pipeline simulation with cold-start and cost analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=cloud-cost-optimizer&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Cloud Cost Optimizer" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=20" width="150" alt="Technology photograph for Cloud Cost Optimizer" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/cloud-cost-optimizer/">Cloud Cost Optimizer</a></b><br />Multi-cloud FinOps dashboard with right-sizing and reserved-instance analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=siem-log-analyzer&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for SIEM Log Analyzer" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=21" width="150" alt="Technology photograph for SIEM Log Analyzer" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/siem-log-analyzer/">SIEM Log Analyzer</a></b><br />Threat-detection dashboard with MITRE ATT&amp;CK mapping and alert correlation.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=cybersecurity-incident-dashboard&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Cybersecurity Incident Dashboard" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=22" width="150" alt="Technology photograph for Cybersecurity Incident Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/cybersecurity-incident-dashboard/">Cybersecurity Incident Dashboard</a></b><br />Security-operations dashboard with MITRE ATT&amp;CK incident mapping.<br /><sub><b>Tech:</b> JavaScript, Chart.js, D3.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=network-vulnerability-scanner&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Network Vulnerability Scanner" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=23" width="150" alt="Technology photograph for Network Vulnerability Scanner" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/network-vulnerability-scanner">Network Vulnerability Scanner</a></b><br />Simulated vulnerability assessment with CVE detection and compliance checks.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=encryption-toolkit&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Encryption Toolkit" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=24" width="150" alt="Technology photograph for Encryption Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/encryption-toolkit/">Encryption Toolkit</a></b><br />AES-256, RSA, SHA hashing, digital signatures, and steganography in the browser.<br /><sub><b>Tech:</b> JavaScript, Web Crypto API</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/shapes/png?seed=secure-password-generator&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Secure Password Generator" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=25" width="150" alt="Technology photograph for Secure Password Generator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/secure-password-generator/">Secure Password Generator</a></b><br />Cryptographically secure password generator with enterprise policy controls.<br /><sub><b>Tech:</b> JavaScript, Web Crypto API</sub></td>
 </tr>
 </table>
@@ -159,51 +159,51 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=edtech-program-command-center&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for EdTech Program Command Center" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=26" width="150" alt="Technology photograph for EdTech Program Command Center" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/edtech-program-command-center/">EdTech Program Command Center</a></b><br />Executive command center for running educational-technology programs across cohorts and outcomes.<br /><sub><b>Tech:</b> JavaScript, Data Visualization</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=verifiable-academic-credentials&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Verifiable Academic Credentials" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=27" width="150" alt="Technology photograph for Verifiable Academic Credentials" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/verifiable-academic-credentials/">Verifiable Academic Credentials</a></b><br />Tamper-evident academic-credential issuance and verification system.<br /><sub><b>Tech:</b> JavaScript, Web Crypto</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Education-Leadership-Dashboard&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Education Leadership Dashboard" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=28" width="150" alt="Technology photograph for Education Leadership Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Education-Leadership-Dashboard/">Education Leadership Dashboard</a></b><br />Analytics platform supporting data-informed decisions for educational administrators.<br /><sub><b>Tech:</b> Data, Decision Support</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Educational-LMS-Prototype&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Educational LMS Prototype" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=29" width="150" alt="Technology photograph for Educational LMS Prototype" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Educational-LMS-Prototype/">Educational LMS Prototype</a></b><br />Modern learning-management concept with an analytics and accessibility focus.<br /><sub><b>Tech:</b> LMS, Analytics</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Remote-Education-Toolkit&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Remote Education Toolkit" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=30" width="150" alt="Technology photograph for Remote Education Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Remote-Education-Toolkit/">Remote Education Toolkit</a></b><br />Web tools for remote educators &mdash; attendance, timers, and discussion facilitation.<br /><sub><b>Tech:</b> JavaScript, EdTech</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=student-engagement-api&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Student Engagement API" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=31" width="150" alt="Technology photograph for Student Engagement API" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/student-engagement-api">Student Engagement API</a></b><br />REST API for tracking and analyzing student engagement.<br /><sub><b>Tech:</b> Python, Flask, SQLite</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=EdTech-Policy-Framework&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for EdTech Policy Framework" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=32" width="150" alt="Technology photograph for EdTech Policy Framework" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/EdTech-Policy-Framework">EdTech Policy Framework</a></b><br />Governance framework for ed-tech policy development and compliance.<br /><sub><b>Tech:</b> Policy, Compliance</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=AI-Ethics-Education-Framework&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for AI Ethics Education Framework" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=33" width="150" alt="Technology photograph for AI Ethics Education Framework" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/AI-Ethics-Education-Framework">AI Ethics Education Framework</a></b><br />Practical guidelines for the ethical use of AI in education.<br /><sub><b>Tech:</b> Ethics, Policy</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Blockchain-Educational-Credentials&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Blockchain Educational Credentials" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=34" width="150" alt="Technology photograph for Blockchain Educational Credentials" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Blockchain-Educational-Credentials">Blockchain Educational Credentials</a></b><br />Verifiable-credential system built on blockchain primitives.<br /><sub><b>Tech:</b> Blockchain, Security</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=tech-enhanced-learning&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Tech-Enhanced Learning" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=35" width="150" alt="Technology photograph for Tech-Enhanced Learning" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/tech-enhanced-learning/">Tech-Enhanced Learning</a></b><br />Course site delivering structured modules and learning resources.<br /><sub><b>Tech:</b> Jekyll, GitHub Pages</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Government-Service-Portal&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Government Service Portal" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=36" width="150" alt="Technology photograph for Government Service Portal" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Government-Service-Portal/">Government Service Portal</a></b><br />Prototype for streamlined, citizen-facing government services.<br /><sub><b>Tech:</b> UX, Service Design</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/rings/png?seed=Public-Service-Digital-Transformation&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Public Service Digital Transformation" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=37" width="150" alt="Technology photograph for Public Service Digital Transformation" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Public-Service-Digital-Transformation">Public Service Digital Transformation</a></b><br />Playbook for digitizing government and education services.<br /><sub><b>Tech:</b> Change Management</sub></td>
 </tr>
 </table>
@@ -216,43 +216,43 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=qualitative-research-methods&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Qualitative Research" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=38" width="150" alt="Technology photograph for Qualitative Research" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/qualitative-research-methods/">Qualitative Research</a></b><br />Paradigms, the five approaches, sampling, coding, and trustworthiness.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=quantitative-inquiry&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Quantitative Inquiry in Education" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=39" width="150" alt="Technology photograph for Quantitative Inquiry in Education" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/quantitative-inquiry/">Quantitative Inquiry in Education</a></b><br />Measurement, inference, and effect size with a guided test-selector.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=educational-policy-analysis&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Educational Policy Analysis &amp; Program Evaluation" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=40" width="150" alt="Technology photograph for Educational Policy Analysis &amp; Program Evaluation" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-policy-analysis/">Educational Policy Analysis &amp; Program Evaluation</a></b><br />Decision analysis, logic models, and program evaluation.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=educational-leadership&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Educational Leadership &amp; School Improvement" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=41" width="150" alt="Technology photograph for Educational Leadership &amp; School Improvement" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-leadership/">Educational Leadership &amp; School Improvement</a></b><br />Organizational theory, improvement science, and education law.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=higher-education-leadership&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Higher Education Leadership &amp; Governance" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=42" width="150" alt="Technology photograph for Higher Education Leadership &amp; Governance" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/higher-education-leadership/">Higher Education Leadership &amp; Governance</a></b><br />Governance, finance, and student development.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=global-higher-education&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Global Higher Education &amp; Internationalization" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=43" width="150" alt="Technology photograph for Global Higher Education &amp; Internationalization" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/global-higher-education/">Global Higher Education &amp; Internationalization</a></b><br />Internationalization strategy and comparative systems.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=teaching-and-teacher-education&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Teaching, Teacher Education &amp; Curriculum" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=44" width="150" alt="Technology photograph for Teaching, Teacher Education &amp; Curriculum" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/teaching-and-teacher-education/">Teaching, Teacher Education &amp; Curriculum</a></b><br />Pedagogy, teacher development, and curriculum design.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=museums-informal-learning&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Museums &amp; Informal Learning" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=45" width="150" alt="Technology photograph for Museums &amp; Informal Learning" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/museums-informal-learning/">Museums &amp; Informal Learning</a></b><br />Free-choice learning and the Contextual Model.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=online-course-design&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Online Course Design Studio" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=46" width="150" alt="Technology photograph for Online Course Design Studio" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/online-course-design/">Online Course Design Studio</a></b><br />Instructional design, assessment, and HyFlex delivery.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/identicon/png?seed=accessibility-udl&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Accessibility &amp; UDL Toolkit" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=47" width="150" alt="Technology photograph for Accessibility &amp; UDL Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/accessibility-udl/">Accessibility &amp; UDL Toolkit</a></b><br />WCAG and Universal Design for Learning with a live contrast checker.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 </table>
@@ -265,11 +265,11 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/icons/png?seed=cli-development-tools&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for CLI Development Tools" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=48" width="150" alt="Technology photograph for CLI Development Tools" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/cli-development-tools">CLI Development Tools</a></b><br />Five command-line utilities &mdash; API tester, dev server, file organizer, git helper, and project scaffolder.<br /><sub><b>Tech:</b> Node.js, Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://api.dicebear.com/9.x/icons/png?seed=python-utilities&amp;size=150&amp;radius=8" width="150" alt="Abstract generative illustration for Python Utilities" /></td>
+<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=49" width="150" alt="Technology photograph for Python Utilities" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/python-utilities">Python Utilities</a></b><br />Command-line blog manager, todo app, and weather app.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 </table>
