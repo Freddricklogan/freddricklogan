@@ -113,7 +113,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#data-ml">&#8679; Back to section top</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
 
 <details id="cloud-security" name="portfolio">
@@ -158,7 +158,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#cloud-security">&#8679; Back to section top</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
 
 <details id="edtech-systems" name="portfolio">
@@ -215,7 +215,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#edtech-systems">&#8679; Back to section top</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
 
 <details id="learning-resources" name="portfolio">
@@ -264,7 +264,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#learning-resources">&#8679; Back to section top</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
 
 <details id="developer-tooling" name="portfolio">
@@ -281,7 +281,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>&emsp;&emsp;<a href="#developer-tooling">&#8679; Back to section top</a>
+<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
 
 ---
