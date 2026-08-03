@@ -35,13 +35,17 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 
 ## Project Portfolio
 
-**Project and Framework Index.** Select a category to expand it.
+<div align="center">
 
-- [I. Data Architecture &amp; Machine Learning](#data-ml)
-- [II. Cloud Infrastructure &amp; Security](#cloud-security)
-- [III. Educational Technology Systems](#edtech-systems)
-- [IV. Interactive Learning Resources](#learning-resources)
-- [V. Developer Tooling](#developer-tooling)
+**Project and Framework Index** &mdash; select a category to explore.
+
+[I. See how I architect data &amp; ML systems](#data-ml)<br>
+[II. See how I secure cloud infrastructure](#cloud-security)<br>
+[III. Explore the education technology I build](#edtech-systems)<br>
+[IV. Open my interactive learning resources](#learning-resources)<br>
+[V. Browse my developer tooling](#developer-tooling)
+
+</div>
 
 <details id="data-ml" name="portfolio">
 <summary><h2>I. Data Architecture &amp; Machine Learning</h2></summary>
@@ -52,7 +56,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/neural-network-playground/">Neural Network Playground</a></b><br />Build, train, and visualize neural networks in the browser with live decision boundaries.<br /><sub><b>Tech:</b> JavaScript, Canvas API, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=2" width="150" alt="Technology photograph for Deep Learning Charity Predictor" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1568952433726-3896e3881c65?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for Deep Learning Charity Predictor" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/DeepLearning-Charity">Deep Learning Charity Predictor</a></b><br />Neural network that predicts nonprofit funding success from application data.<br /><sub><b>Tech:</b> TensorFlow, Keras, Scikit-learn</sub></td>
 </tr>
 <tr>
@@ -125,7 +129,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/cloud-architecture-designer/">Cloud Architecture Designer</a></b><br />Drag-and-drop AWS architecture builder with an automated Well-Architected review.<br /><sub><b>Tech:</b> JavaScript, HTML5 Canvas</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=18" width="150" alt="Technology photograph for AWS Terraform Game Day" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for AWS Terraform Game Day" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/aws-terraform-gameday">AWS Terraform Game Day</a></b><br />Production-grade three-tier AWS infrastructure &mdash; VPC, Auto Scaling, ALB &mdash; as code.<br /><sub><b>Tech:</b> Terraform, AWS, HCL</sub></td>
 </tr>
 <tr>
@@ -166,7 +170,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=26" width="150" alt="Technology photograph for EdTech Program Command Center" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1758073519996-6d3c63b4922c?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for EdTech Program Command Center" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/edtech-program-command-center/">EdTech Program Command Center</a></b><br />Executive command center for running educational-technology programs across cohorts and outcomes.<br /><sub><b>Tech:</b> JavaScript, Data Visualization</sub></td>
 </tr>
 <tr>
@@ -223,7 +227,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=38" width="150" alt="Technology photograph for Qualitative Research" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1524169113253-c6ba17f68498?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for Qualitative Research" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/qualitative-research-methods/">Qualitative Research</a></b><br />Paradigms, the five approaches, sampling, coding, and trustworthiness.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
@@ -272,7 +276,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=48" width="150" alt="Technology photograph for CLI Development Tools" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1741447096161-a6b4e3398d0e?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for CLI Development Tools" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/cli-development-tools">CLI Development Tools</a></b><br />Five command-line utilities &mdash; API tester, dev server, file organizer, git helper, and project scaffolder.<br /><sub><b>Tech:</b> Node.js, Python</sub></td>
 </tr>
 <tr>
