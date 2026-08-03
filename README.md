@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/freddricklogan/">LinkedIn</a> ·
   <a href="https://freddricklogan.github.io/resources/">Resource Hub</a> ·
+  <a href="#projects">Projects</a> ·
   <a href="#connect">Connect</a>
 </p>
 
