@@ -37,7 +37,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 - [V. Developer Tooling](#developer-tooling)
 
 <details id="data-ml">
-<summary><h2>&#9654; I. Data Architecture &amp; Machine Learning</h2></summary>
+<summary><h2>I. Data Architecture &amp; Machine Learning</h2></summary>
 <br>
 <table border="0">
 <tr>
@@ -110,7 +110,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </details>
 
 <details id="cloud-security">
-<summary><h2>&#9654; II. Cloud Infrastructure &amp; Security</h2></summary>
+<summary><h2>II. Cloud Infrastructure &amp; Security</h2></summary>
 <br>
 <table border="0">
 <tr>
@@ -155,7 +155,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </details>
 
 <details id="edtech-systems">
-<summary><h2>&#9654; III. Educational Technology Systems</h2></summary>
+<summary><h2>III. Educational Technology Systems</h2></summary>
 <br>
 <table border="0">
 <tr>
@@ -212,7 +212,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </details>
 
 <details id="learning-resources">
-<summary><h2>&#9654; IV. Interactive Learning Resources</h2></summary>
+<summary><h2>IV. Interactive Learning Resources</h2></summary>
 <br>
 <table border="0">
 <tr>
@@ -261,7 +261,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </details>
 
 <details id="developer-tooling">
-<summary><h2>&#9654; V. Developer Tooling</h2></summary>
+<summary><h2>V. Developer Tooling</h2></summary>
 <br>
 <table border="0">
 <tr>
