@@ -243,27 +243,27 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-leadership/">Educational Leadership &amp; School Improvement</a></b><br />Organizational theory, improvement science, and education law.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1549605659-32d82da3a059?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Higher Education Leadership &amp; Governance" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1777171502249-92a06d1b547a?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Higher Education Leadership &amp; Governance" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/higher-education-leadership/">Higher Education Leadership &amp; Governance</a></b><br />Governance, finance, and student development.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1782338937659-9a2cc59a8a69?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Global Higher Education &amp; Internationalization" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1770368437389-86bde15fcb33?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Global Higher Education &amp; Internationalization" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/global-higher-education/">Global Higher Education &amp; Internationalization</a></b><br />Internationalization strategy and comparative systems.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1739561439496-f2d1be7503d8?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Teaching, Teacher Education &amp; Curriculum" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1737505599162-d9932323a889?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Teaching, Teacher Education &amp; Curriculum" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/teaching-and-teacher-education/">Teaching, Teacher Education &amp; Curriculum</a></b><br />Pedagogy, teacher development, and curriculum design.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1780956184985-e6bc015ae51c?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Museums &amp; Informal Learning" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1781798472524-1e91dd9bf0ac?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Museums &amp; Informal Learning" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/museums-informal-learning/">Museums &amp; Informal Learning</a></b><br />Free-choice learning and the Contextual Model.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1737505599162-d9932323a889?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Online Course Design Studio" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1630794180018-433d915c34ac?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Online Course Design Studio" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/online-course-design/">Online Course Design Studio</a></b><br />Instructional design, assessment, and HyFlex delivery.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1777908484195-a2032e837323?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Accessibility &amp; UDL Toolkit" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1774132221890-bbfc4a064fd4?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Accessibility &amp; UDL Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/accessibility-udl/">Accessibility &amp; UDL Toolkit</a></b><br />WCAG and Universal Design for Learning with a live contrast checker.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 </table>
