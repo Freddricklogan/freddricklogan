@@ -60,59 +60,59 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://github.com/Freddricklogan/DeepLearning-Charity">Deep Learning Charity Predictor</a></b><br />Neural network that predicts nonprofit funding success from application data.<br /><sub><b>Tech:</b> TensorFlow, Keras, Scikit-learn</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=3" width="150" alt="Technology photograph for Sentiment Analysis System" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1644088379091-d574269d422f?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Sentiment Analysis System" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/SentimentAnalysis-System">Sentiment Analysis System</a></b><br />NLP engine for sentiment, emotion, and aspect-based text analysis.<br /><sub><b>Tech:</b> Python, NLP, ML</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=4" width="150" alt="Technology photograph for Epidemic Modeling Dashboard" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Epidemic Modeling Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/epidemic-modeling-dashboard/">Epidemic Modeling Dashboard</a></b><br />SIR / SEIR / SIRD / SIRV disease simulator with an RK4 solver and sensitivity analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js, RK4</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=5" width="150" alt="Technology photograph for Monte Carlo Simulator" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1562408590-e32931084e23?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Monte Carlo Simulator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/monte-carlo-simulator/">Monte Carlo Simulator</a></b><br />Options pricing, Pi estimation, Brownian motion, and portfolio VaR via Monte Carlo methods.<br /><sub><b>Tech:</b> JavaScript, Chart.js, Web Workers</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=6" width="150" alt="Technology photograph for FinTech Risk Analytics" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for FinTech Risk Analytics" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/fintech-risk-analytics/">FinTech Risk Analytics</a></b><br />Portfolio risk analysis with Value-at-Risk, Monte Carlo, and Black-Scholes pricing.<br /><sub><b>Tech:</b> JavaScript, Plotly.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=7" width="150" alt="Technology photograph for Medical Treatment Analytics" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1576400883215-7083980b6193?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Medical Treatment Analytics" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/MedicalTreatment-Analytics">Medical Treatment Analytics</a></b><br />Statistical analysis of cancer-treatment efficacy across regimens.<br /><sub><b>Tech:</b> Python, Pandas, Matplotlib</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=8" width="150" alt="Technology photograph for Crypto Clustering" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1644325349124-d1756b79dd42?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Crypto Clustering" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Crypto-Clustering">Crypto Clustering</a></b><br />Unsupervised learning to classify cryptocurrencies by market behavior.<br /><sub><b>Tech:</b> Python, Scikit-learn, PCA</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=9" width="150" alt="Technology photograph for Financial Analysis" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Financial Analysis" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Financial-Analysis">Financial Analysis</a></b><br />Automated financial-records analysis and reporting pipeline.<br /><sub><b>Tech:</b> Python, Pandas</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=10" width="150" alt="Technology photograph for PyBank" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1488229297570-58520851e868?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for PyBank" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/PyBank/">PyBank</a></b><br />Profit-and-loss analysis with trend identification over financial time series.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=11" width="150" alt="Technology photograph for PyPoll" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for PyPoll" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/PyPoll">PyPoll</a></b><br />Automated election-data tabulation and results reporting.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=12" width="150" alt="Technology photograph for Election Analysis" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Election Analysis" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Election-Analysis">Election Analysis</a></b><br />Vote-counting and election-reporting automation.<br /><sub><b>Tech:</b> Python</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=13" width="150" alt="Technology photograph for Mars Web Scraping" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Mars Web Scraping" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/WebScraping-Mars">Mars Web Scraping</a></b><br />Scrapes and aggregates Mars-mission data into a live dashboard.<br /><sub><b>Tech:</b> Python, Flask, BeautifulSoup, MongoDB</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=14" width="150" alt="Technology photograph for Earthquake Visualization" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1617396900799-f4ec2b43c7ae?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Earthquake Visualization" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/earthquake-visualization/">Earthquake Visualization</a></b><br />Real-time interactive map of global seismic activity.<br /><sub><b>Tech:</b> JavaScript, Leaflet.js, D3.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=15" width="150" alt="Technology photograph for Belly Button Biodiversity" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Belly Button Biodiversity" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/belly-button-challenge/">Belly Button Biodiversity</a></b><br />Interactive explorer for microbial biodiversity datasets.<br /><sub><b>Tech:</b> JavaScript, D3.js, Plotly.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=16" width="150" alt="Technology photograph for UFO Sightings Dashboard" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1609705025038-60908171cf5e?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for UFO Sightings Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/UFO-Sightings/">UFO Sightings Dashboard</a></b><br />Filterable dashboard for exploring UFO sighting records.<br /><sub><b>Tech:</b> JavaScript, D3.js</sub></td>
 </tr>
 </table>
@@ -133,31 +133,31 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://github.com/Freddricklogan/aws-terraform-gameday">AWS Terraform Game Day</a></b><br />Production-grade three-tier AWS infrastructure &mdash; VPC, Auto Scaling, ALB &mdash; as code.<br /><sub><b>Tech:</b> Terraform, AWS, HCL</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=19" width="150" alt="Technology photograph for Serverless Workflow Simulator" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Serverless Workflow Simulator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/serverless-workflow-simulator/">Serverless Workflow Simulator</a></b><br />Event-driven Lambda pipeline simulation with cold-start and cost analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=20" width="150" alt="Technology photograph for Cloud Cost Optimizer" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1545987796-200677ee1011?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Cloud Cost Optimizer" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/cloud-cost-optimizer/">Cloud Cost Optimizer</a></b><br />Multi-cloud FinOps dashboard with right-sizing and reserved-instance analysis.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=21" width="150" alt="Technology photograph for SIEM Log Analyzer" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for SIEM Log Analyzer" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/siem-log-analyzer/">SIEM Log Analyzer</a></b><br />Threat-detection dashboard with MITRE ATT&amp;CK mapping and alert correlation.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=22" width="150" alt="Technology photograph for Cybersecurity Incident Dashboard" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Cybersecurity Incident Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/cybersecurity-incident-dashboard/">Cybersecurity Incident Dashboard</a></b><br />Security-operations dashboard with MITRE ATT&amp;CK incident mapping.<br /><sub><b>Tech:</b> JavaScript, Chart.js, D3.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=23" width="150" alt="Technology photograph for Network Vulnerability Scanner" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1674027444485-cec3da58eef4?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Network Vulnerability Scanner" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/network-vulnerability-scanner">Network Vulnerability Scanner</a></b><br />Simulated vulnerability assessment with CVE detection and compliance checks.<br /><sub><b>Tech:</b> JavaScript, Chart.js</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=24" width="150" alt="Technology photograph for Encryption Toolkit" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1497493292307-31c376b6e479?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Encryption Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/encryption-toolkit/">Encryption Toolkit</a></b><br />AES-256, RSA, SHA hashing, digital signatures, and steganography in the browser.<br /><sub><b>Tech:</b> JavaScript, Web Crypto API</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=25" width="150" alt="Technology photograph for Secure Password Generator" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Secure Password Generator" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/secure-password-generator/">Secure Password Generator</a></b><br />Cryptographically secure password generator with enterprise policy controls.<br /><sub><b>Tech:</b> JavaScript, Web Crypto API</sub></td>
 </tr>
 </table>
@@ -174,27 +174,27 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/edtech-program-command-center/">EdTech Program Command Center</a></b><br />Executive command center for running educational-technology programs across cohorts and outcomes.<br /><sub><b>Tech:</b> JavaScript, Data Visualization</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=27" width="150" alt="Technology photograph for Verifiable Academic Credentials" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1593349480506-8433634cdcbe?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Verifiable Academic Credentials" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/verifiable-academic-credentials/">Verifiable Academic Credentials</a></b><br />Tamper-evident academic-credential issuance and verification system.<br /><sub><b>Tech:</b> JavaScript, Web Crypto</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=28" width="150" alt="Technology photograph for Education Leadership Dashboard" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1720962158937-7ea890052166?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Education Leadership Dashboard" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Education-Leadership-Dashboard/">Education Leadership Dashboard</a></b><br />Analytics platform supporting data-informed decisions for educational administrators.<br /><sub><b>Tech:</b> Data, Decision Support</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=29" width="150" alt="Technology photograph for Educational LMS Prototype" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1637664067109-a6a00840d894?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational LMS Prototype" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Educational-LMS-Prototype/">Educational LMS Prototype</a></b><br />Modern learning-management concept with an analytics and accessibility focus.<br /><sub><b>Tech:</b> LMS, Analytics</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=30" width="150" alt="Technology photograph for Remote Education Toolkit" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1649406458887-2b6561c36a4d?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Remote Education Toolkit" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Remote-Education-Toolkit/">Remote Education Toolkit</a></b><br />Web tools for remote educators &mdash; attendance, timers, and discussion facilitation.<br /><sub><b>Tech:</b> JavaScript, EdTech</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=31" width="150" alt="Technology photograph for Student Engagement API" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Student Engagement API" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/student-engagement-api">Student Engagement API</a></b><br />REST API for tracking and analyzing student engagement.<br /><sub><b>Tech:</b> Python, Flask, SQLite</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=32" width="150" alt="Technology photograph for EdTech Policy Framework" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1562575214-ffefa379432a?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for EdTech Policy Framework" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/EdTech-Policy-Framework">EdTech Policy Framework</a></b><br />Governance framework for ed-tech policy development and compliance.<br /><sub><b>Tech:</b> Policy, Compliance</sub></td>
 </tr>
 <tr>
