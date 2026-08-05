@@ -227,19 +227,19 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <br>
 <table border="0">
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1524169113253-c6ba17f68498?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for Qualitative Research" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1734971702269-60d36fc28829?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for Qualitative Research" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/qualitative-research-methods/">Qualitative Research</a></b><br />Paradigms, the five approaches, sampling, coding, and trustworthiness.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1674544362969-a4269ef0ea69?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Quantitative Inquiry in Education" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1634730336473-8b8ab5f1796d?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Quantitative Inquiry in Education" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/quantitative-inquiry/">Quantitative Inquiry in Education</a></b><br />Measurement, inference, and effect size with a guided test-selector.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1583770539147-581738d1310a?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Policy Analysis &amp; Program Evaluation" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1675044794074-8dea291acb7d?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Policy Analysis &amp; Program Evaluation" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-policy-analysis/">Educational Policy Analysis &amp; Program Evaluation</a></b><br />Decision analysis, logic models, and program evaluation.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://images.unsplash.com/photo-1752742111841-f490c48aa668?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Leadership &amp; School Improvement" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1664526936959-84bdea9f37fa?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Leadership &amp; School Improvement" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-leadership/">Educational Leadership &amp; School Improvement</a></b><br />Organizational theory, improvement science, and education law.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
