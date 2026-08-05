@@ -198,23 +198,23 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://github.com/Freddricklogan/EdTech-Policy-Framework">EdTech Policy Framework</a></b><br />Governance framework for ed-tech policy development and compliance.<br /><sub><b>Tech:</b> Policy, Compliance</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=33" width="150" alt="Technology photograph for AI Ethics Education Framework" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1639152201720-5e536d254d81?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for AI Ethics Education Framework" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/AI-Ethics-Education-Framework">AI Ethics Education Framework</a></b><br />Practical guidelines for the ethical use of AI in education.<br /><sub><b>Tech:</b> Ethics, Policy</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=34" width="150" alt="Technology photograph for Blockchain Educational Credentials" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1490775949603-0e355e8e01ba?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Blockchain Educational Credentials" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Blockchain-Educational-Credentials">Blockchain Educational Credentials</a></b><br />Verifiable-credential system built on blockchain primitives.<br /><sub><b>Tech:</b> Blockchain, Security</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=35" width="150" alt="Technology photograph for Tech-Enhanced Learning" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Tech-Enhanced Learning" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/tech-enhanced-learning/">Tech-Enhanced Learning</a></b><br />Course site delivering structured modules and learning resources.<br /><sub><b>Tech:</b> Jekyll, GitHub Pages</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=36" width="150" alt="Technology photograph for Government Service Portal" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Government Service Portal" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/Government-Service-Portal/">Government Service Portal</a></b><br />Prototype for streamlined, citizen-facing government services.<br /><sub><b>Tech:</b> UX, Service Design</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/abstract,technology?lock=37" width="150" alt="Technology photograph for Public Service Digital Transformation" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Public Service Digital Transformation" /></td>
 <td valign="top"><b><a href="https://github.com/Freddricklogan/Public-Service-Digital-Transformation">Public Service Digital Transformation</a></b><br />Playbook for digitizing government and education services.<br /><sub><b>Tech:</b> Change Management</sub></td>
 </tr>
 </table>
@@ -231,11 +231,11 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/qualitative-research-methods/">Qualitative Research</a></b><br />Paradigms, the five approaches, sampling, coding, and trustworthiness.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=39" width="150" alt="Technology photograph for Quantitative Inquiry in Education" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1674544362969-a4269ef0ea69?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Quantitative Inquiry in Education" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/quantitative-inquiry/">Quantitative Inquiry in Education</a></b><br />Measurement, inference, and effect size with a guided test-selector.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=40" width="150" alt="Technology photograph for Educational Policy Analysis &amp; Program Evaluation" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1583770539147-581738d1310a?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Policy Analysis &amp; Program Evaluation" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-policy-analysis/">Educational Policy Analysis &amp; Program Evaluation</a></b><br />Decision analysis, logic models, and program evaluation.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
