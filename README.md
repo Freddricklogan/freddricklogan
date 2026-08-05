@@ -373,6 +373,27 @@ Applied research translated into governance frameworks, evaluation methods, and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" title="Illustrator" />
 </td>
 </tr>
+<tr>
+<td valign="top"><b>Cybersecurity</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali Linux" title="Kali Linux" />
+<br /><sub>Wireshark &middot; Metasploit &middot; Burp Suite &middot; SIEM &middot; Incident Response &middot; Threat Modeling &middot; NIST</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data Visualization</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js" title="D3.js" />
+<br /><sub>Tableau &middot; Plotly &middot; Chart.js &middot; Leaflet &middot; Matplotlib &middot; Excel &middot; BigQuery</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>FinTech &amp; Blockchain</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" title="Solidity" />
+<br /><sub>Web3 &middot; Ethereum &middot; Algorithmic Trading &middot; Monte Carlo Simulation &middot; Portfolio Risk Analytics</sub>
+</td>
+</tr>
 </table>
 
 <sub>Full skill matrix: <a href="docs_migration/skills.md">docs_migration/skills.md</a></sub>
