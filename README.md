@@ -239,7 +239,7 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-policy-analysis/">Educational Policy Analysis &amp; Program Evaluation</a></b><br />Decision analysis, logic models, and program evaluation.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
-<td width="150"><img src="https://loremflickr.com/300/180/technology?lock=41" width="150" alt="Technology photograph for Educational Leadership &amp; School Improvement" /></td>
+<td width="150"><img src="https://images.unsplash.com/photo-1752742111841-f490c48aa668?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Educational Leadership &amp; School Improvement" /></td>
 <td valign="top"><b><a href="https://freddricklogan.github.io/educational-leadership/">Educational Leadership &amp; School Improvement</a></b><br />Organizational theory, improvement science, and education law.<br /><sub><b>Format:</b> Interactive resource</sub></td>
 </tr>
 <tr>
