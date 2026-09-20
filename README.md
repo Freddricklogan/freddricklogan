@@ -377,20 +377,39 @@ Applied research translated into governance frameworks, evaluation methods, and 
 <td valign="top"><b>Cybersecurity</b></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali Linux" title="Kali Linux" />
-<br /><sub>Wireshark &middot; Metasploit &middot; Burp Suite &middot; SIEM &middot; Incident Response &middot; Threat Modeling &middot; NIST</sub>
+<img src="https://cdn.simpleicons.org/wireshark/58A6FF" width="40" height="40" alt="Wireshark" title="Wireshark" />
+<img src="https://cdn.simpleicons.org/metasploit/58A6FF" width="40" height="40" alt="Metasploit" title="Metasploit" />
+<img src="https://cdn.simpleicons.org/burpsuite/58A6FF" width="40" height="40" alt="Burp Suite" title="Burp Suite" />
+<img src="https://cdn.simpleicons.org/splunk/58A6FF" width="40" height="40" alt="Splunk SIEM" title="SIEM (Splunk)" />
+<img src="https://cdn.simpleicons.org/elastic/58A6FF" width="40" height="40" alt="Elastic Security" title="SIEM (Elastic)" />
+<img src="https://cdn.simpleicons.org/owasp/58A6FF" width="40" height="40" alt="OWASP" title="Threat Modeling (OWASP)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="40" height="40" alt="OpenTelemetry" title="Incident Response telemetry (OpenTelemetry)" />
+<br /><sub>Kali Linux &middot; Wireshark &middot; Metasploit &middot; Burp Suite &middot; SIEM &middot; Incident Response &middot; Threat Modeling &middot; NIST</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Data Visualization</b></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js" title="D3.js" />
-<br /><sub>Tableau &middot; Plotly &middot; Chart.js &middot; Leaflet &middot; Matplotlib &middot; Excel &middot; BigQuery</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" title="Plotly" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" height="40" alt="Chart.js" title="Chart.js" />
+<img src="https://cdn.simpleicons.org/leaflet/58A6FF" width="40" height="40" alt="Leaflet" title="Leaflet" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" title="Matplotlib" />
+<img src="https://cdn.simpleicons.org/googlebigquery/58A6FF" width="40" height="40" alt="Google BigQuery" title="BigQuery" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter" />
+<br /><sub>D3.js &middot; Tableau &middot; Plotly &middot; Chart.js &middot; Leaflet &middot; Matplotlib &middot; Excel &middot; BigQuery</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>FinTech &amp; Blockchain</b></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" title="Solidity" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="40" height="40" alt="Web3.js" title="Web3" />
+<img src="https://cdn.simpleicons.org/ethereum/58A6FF" width="40" height="40" alt="Ethereum" title="Ethereum" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="40" height="40" alt="Hardhat" title="Hardhat" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="Monte Carlo Simulation (NumPy)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" title="Portfolio Risk Analytics (pandas)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Algorithmic Trading (Python)" />
 <br /><sub>Web3 &middot; Ethereum &middot; Algorithmic Trading &middot; Monte Carlo Simulation &middot; Portfolio Risk Analytics</sub>
 </td>
 </tr>
