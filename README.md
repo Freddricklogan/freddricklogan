@@ -37,19 +37,18 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 
 <div align="center">
 
-**Project and Framework Index** &mdash; select a category to explore.
+**Project and Framework Index**
 
-[I. See how I architect data &amp; ML systems](#data-ml)<br>
-[II. See how I secure cloud infrastructure](#cloud-security)<br>
-[III. Explore the education technology I build](#edtech-systems)<br>
-[IV. Open my interactive learning resources](#learning-resources)<br>
-[V. Browse my developer tooling](#developer-tooling)
+[I. Data Architecture &amp; Machine Learning](#data-ml) &mdash; 16 projects<br>
+[II. Cloud Infrastructure &amp; Security](#cloud-security) &mdash; 9 projects<br>
+[III. Educational Technology Systems](#edtech-systems) &mdash; 12 projects<br>
+[IV. Interactive Learning Resources](#learning-resources) &mdash; 10 resources<br>
+[V. Developer Tooling](#developer-tooling) &mdash; 2 projects
 
 </div>
 
-<details id="data-ml" name="portfolio">
-<summary><h2>I. Data Architecture &amp; Machine Learning</h2></summary>
-<br>
+<h2 id="data-ml">I. Data Architecture &amp; Machine Learning <sub>(16 projects)</sub></h2>
+
 <table border="0">
 <tr>
 <td width="150"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Unsplash technology photograph for Neural Network Playground" /></td>
@@ -117,12 +116,11 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
-</details>
+<a href="#project-portfolio">&#8679; Return to Index</a><br>
+<sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a></sub>
 
-<details id="cloud-security" name="portfolio">
-<summary><h2>II. Cloud Infrastructure &amp; Security</h2></summary>
-<br>
+<h2 id="cloud-security">II. Cloud Infrastructure &amp; Security <sub>(9 projects)</sub></h2>
+
 <table border="0">
 <tr>
 <td width="150"><img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Unsplash technology photograph for Cloud Architecture Designer" /></td>
@@ -162,12 +160,11 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
-</details>
+<a href="#project-portfolio">&#8679; Return to Index</a><br>
+<sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a></sub>
 
-<details id="edtech-systems" name="portfolio">
-<summary><h2>III. Educational Technology Systems</h2></summary>
-<br>
+<h2 id="edtech-systems">III. Educational Technology Systems <sub>(12 projects)</sub></h2>
+
 <table border="0">
 <tr>
 <td width="150"><img src="https://images.unsplash.com/photo-1758073519996-6d3c63b4922c?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for EdTech Program Command Center" /></td>
@@ -219,11 +216,13 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
-</details>
+<a href="#project-portfolio">&#8679; Return to Index</a><br>
+<sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a></sub>
 
-<details id="learning-resources" name="portfolio">
-<summary><h2>IV. Interactive Learning Resources</h2></summary>
+<h2 id="learning-resources">IV. Interactive Learning Resources <sub>(10 resources)</sub></h2>
+
+<details open>
+<summary>Show all ten resources</summary>
 <br>
 <table border="0">
 <tr>
@@ -268,12 +267,12 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
 </details>
+<a href="#project-portfolio">&#8679; Return to Index</a><br>
+<sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a></sub>
 
-<details id="developer-tooling" name="portfolio">
-<summary><h2>V. Developer Tooling</h2></summary>
-<br>
+<h2 id="developer-tooling">V. Developer Tooling <sub>(2 projects)</sub></h2>
+
 <table border="0">
 <tr>
 <td width="150"><img src="https://images.unsplash.com/photo-1741447096161-a6b4e3398d0e?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Photograph for CLI Development Tools" /></td>
@@ -285,8 +284,8 @@ I also consult on cloud architecture, cybersecurity, and educational-technology 
 </tr>
 </table>
 <br />
-<a href="#project-portfolio">&#8679; Return to Index</a>
-</details>
+<a href="#project-portfolio">&#8679; Return to Index</a><br>
+<sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a></sub>
 
 ---
 
