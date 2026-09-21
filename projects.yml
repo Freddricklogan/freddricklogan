@@ -1,4 +1,4 @@
-# Data source for the profile README (Phase 8: update_readme.sh renders README.md from this file).
+# Data source for the profile README (scripts/update_readme.py renders the portfolio block of README.md from this file).
 # One entry per repository. Fields:
 #   repo        GitHub repository name (URL never changes)
 #   title       display title
@@ -13,6 +13,52 @@
 #   image       Unsplash photo id, rendered as images.unsplash.com/photo-<id>?…&w=300&h=180
 #   alt         image alt text
 #   replaces    repositories this one supersedes (archived, listed under the row)
+#   programme   (section VI) University of Oxford Saïd Business School programme the project is aligned to
+#   issued      (section VI) month the programme certificate was issued (docs/MODERNIZATION_BLUEPRINT.md §2B)
+#   demo_route  route of the demo on the deployed host when `live` is null (rendered as a note, never as a dead link)
+# Tier labels rendered as shields: T1 Flagship · T2 Showcase · T3 Consolidated.
+#
+# sections: the portfolio taxonomy rendered in order (num, id, title, noun, collapsible, intro)
+# featured: six repos shown in the 3×2 grid after the Executive Summary (copy: docs/copy/profile-readme-copy.md)
+# roadmap:  planned convergence flagships (docs/MODERNIZATION_BLUEPRINT.md §2A); intro from the copy file
+sections:
+  - num: I
+    id: data-ml
+    title: Data Architecture &amp; Machine Learning
+    noun: projects
+  - num: II
+    id: cloud-security
+    title: Cloud Infrastructure &amp; Security
+    noun: projects
+  - num: III
+    id: edtech-systems
+    title: Educational Technology Systems
+    noun: projects
+  - num: IV
+    id: learning-resources
+    title: Interactive Learning Resources
+    noun: resources
+    collapsible: true
+  - num: V
+    id: developer-tooling
+    title: Developer Tooling
+    noun: projects
+  - num: VI
+    id: executive-programme
+    title: Executive Programme Projects
+    noun: projects
+    intro: copy:section-vi   # the "Section VI intro line" block of docs/copy/profile-readme-copy.md
+featured: [siem-log-analyzer, student-engagement-api, verifiable-academic-credentials, aws-terraform-gameday, neural-network-playground, epidemic-modeling-dashboard]
+roadmap:
+  - name: Bastion Range
+    pitch: Enterprise security learning sandbox that emulates adversary behaviour against a disposable environment and scores the defender's response in real time, mapped to MITRE ATT&CK and NIST CSF.
+    anchor: flagship-1--bastion-range-enterprise-security-learning-sandbox-cybersecurity--edtech--cs
+  - name: Sentinel Ledger
+    pitch: AI/ML model auditing and telemetry gateway that sits between applications and models, detecting prompt injection, PII leakage, drift and poisoning signals, with a tamper-evident audit trail.
+    anchor: flagship-2--sentinel-ledger-aiml-model-auditing--telemetry-platform-data-science--cybersecurity--technologist
+  - name: Atlas Tutor
+    pitch: Self-hostable adaptive RAG tutor with a knowledge-graph skill model that generates objective-aligned assessments and runs on a single GPU node or a laptop.
+    anchor: flagship-3--atlas-tutor-adaptive-multimodal-learning-engine-edtech--data-science--distributed-systems
 projects:
   - repo: student-engagement-api
     title: Student Engagement API
@@ -26,6 +72,7 @@ projects:
     tech: Python, Flask, SQLite
     image: 1512756290469-ec264b7fbf87
     alt: Technology photograph for Student Engagement API
+    demo_route: /docs   # Scalar API reference on the deployed host (README §6); no host is provisioned yet
   - repo: siem-log-analyzer
     title: SIEM Log Analyzer
     section: II
@@ -122,6 +169,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1581091870598-36ce9bad5c77
     alt: Photograph of a meeting for PSF Utilization Analytics
+    programme: "Leading Professional Service Firms"
+    issued: Aug 2023
   - repo: ai-strategy-lab
     title: AI Strategy Lab
     section: VI
@@ -134,6 +183,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1528819622765-d6bcf132f793
     alt: Photograph of chess pieces for AI Strategy Lab
+    programme: "Artificial Intelligence"
+    issued: Jul 2023
   - repo: venture-finance-modeler
     title: Venture Finance Modeler
     section: VI
@@ -146,6 +197,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1651341050677-24dba59ce0fd
     alt: Photograph of a chart interface for Venture Finance Modeler
+    programme: "Entrepreneurship: Venture Finance"
+    issued: Oct 2023
   - repo: strategic-project-radar
     title: Strategic Project Radar
     section: VI
@@ -158,6 +211,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1526628953301-3e589a6a8b74
     alt: Photograph of a reporting dashboard for Strategic Project Radar
+    programme: "Leading Strategic Projects"
+    issued: Aug 2023
   - repo: innovation-portfolio-radar
     title: Innovation Portfolio Radar
     section: VI
@@ -170,6 +225,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1676405034160-a389faf8331d
     alt: Photograph of a control room for Innovation Portfolio Radar
+    programme: "Strategic Innovation"
+    issued: Feb 2024
   - repo: venture-canvas-studio
     title: Venture Canvas Studio
     section: VI
@@ -182,6 +239,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1581091877018-dac6a371d50f
     alt: Photograph of colleagues at a whiteboard for Venture Canvas Studio
+    programme: "Entrepreneurship: Venture Creation"
+    issued: Aug 2023
   - repo: enterprise-operating-model-kit
     title: Enterprise Operating Model Kit
     section: VI
@@ -194,6 +253,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1557804506-669a67965ba0
     alt: Photograph of a whiteboard meeting for Enterprise Operating Model Kit
+    programme: "Enterprise Leadership"
+    issued: May 2023
   - repo: algo-trading-research-kit
     title: Algo Trading Research Kit
     section: VI
@@ -206,6 +267,8 @@ projects:
     tech: TypeScript, Vite, Vitest
     image: 1560221328-12fe60f83ab8
     alt: Photograph of a market chart for Algo Trading Research Kit
+    programme: "Algorithmic Trading"
+    issued: Jan 2024
   - repo: growth-analytics-engine
     title: Growth Analytics Engine
     section: VI
@@ -218,6 +281,8 @@ projects:
     tech: Python, NumPy, Streamlit
     image: 1460925895917-afdab827c52f
     alt: Photograph of statistics on a laptop for Growth Analytics Engine
+    programme: "Digital Marketing: Disruptive Strategy"
+    issued: Oct 2023
   - repo: learning-resource-kit
     title: Learning Resource Kit
     section: IV
