@@ -1,0 +1,701 @@
+# Data source for the profile README (Phase 8: update_readme.sh renders README.md from this file).
+# One entry per repository. Fields:
+#   repo        GitHub repository name (URL never changes)
+#   title       display title
+#   section     I data-ml | II cloud-security | III edtech-systems | IV learning-resources | V developer-tooling | VI executive-programme
+#   tier        T1 | T2 | T3
+#   live        live demo URL (Pages, container, or null)
+#   case_study  path to the case study inside the repo (rendered as "Case study" in every project row)
+#   ci          true when the repo has .github/workflows/deploy.yml (renders the CI shield)
+#   status      done | in-progress | planned | archived
+#   description one-line row text (HTML entities not needed; the renderer escapes)
+#   tech        the row's Tech line (or Format line when `format: true`)
+#   image       Unsplash photo id, rendered as images.unsplash.com/photo-<id>?…&w=300&h=180
+#   alt         image alt text
+#   replaces    repositories this one supersedes (archived, listed under the row)
+projects:
+  - repo: student-engagement-api
+    title: Student Engagement API
+    section: III
+    tier: T1
+    live: null
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: REST API for tracking and analyzing student engagement.
+    tech: Python, Flask, SQLite
+    image: 1512756290469-ec264b7fbf87
+    alt: Technology photograph for Student Engagement API
+  - repo: siem-log-analyzer
+    title: SIEM Log Analyzer
+    section: II
+    tier: T1
+    live: "https://freddricklogan.github.io/siem-log-analyzer/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Threat-detection dashboard with MITRE ATT&CK mapping and alert correlation.
+    tech: JavaScript, Chart.js
+    image: 1484557052118-f32bd25b45b5
+    alt: Technology photograph for SIEM Log Analyzer
+  - repo: verifiable-academic-credentials
+    title: Verifiable Academic Credentials
+    section: III
+    tier: T1
+    live: "https://freddricklogan.github.io/verifiable-academic-credentials/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Tamper-evident academic-credential issuance and verification system.
+    tech: JavaScript, Web Crypto
+    image: 1593349480506-8433634cdcbe
+    alt: Technology photograph for Verifiable Academic Credentials
+  - repo: aws-terraform-gameday
+    title: AWS Terraform Game Day
+    section: II
+    tier: T1
+    live: "https://freddricklogan.github.io/aws-terraform-gameday/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Production-grade three-tier AWS infrastructure — VPC, Auto Scaling, ALB — as code.
+    tech: Terraform, AWS, HCL
+    image: 1523961131990-5ea7c61b2107
+    alt: Photograph for AWS Terraform Game Day
+  - repo: neural-network-playground
+    title: Neural Network Playground
+    section: I
+    tier: T1
+    live: "https://freddricklogan.github.io/neural-network-playground/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Build, train, and visualize neural networks in the browser with live decision boundaries.
+    tech: JavaScript, Canvas API, Chart.js
+    image: 1551288049-bebda4e38f71
+    alt: Unsplash technology photograph for Neural Network Playground
+  - repo: epidemic-modeling-dashboard
+    title: Epidemic Modeling Dashboard
+    section: I
+    tier: T1
+    live: "https://freddricklogan.github.io/epidemic-modeling-dashboard/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: SIR / SEIR / SIRD / SIRV disease simulator with an RK4 solver and sensitivity analysis.
+    tech: JavaScript, Chart.js, RK4
+    image: 1597733336794-12d05021d510
+    alt: Technology photograph for Epidemic Modeling Dashboard
+  - repo: cloud-architecture-designer
+    title: Cloud Architecture Designer
+    section: II
+    tier: T1
+    live: "https://freddricklogan.github.io/cloud-architecture-designer/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Drag-and-drop AWS architecture builder with an automated Well-Architected review.
+    tech: JavaScript, HTML5 Canvas
+    image: 1518770660439-4636190af475
+    alt: Unsplash technology photograph for Cloud Architecture Designer
+  - repo: edtech-program-command-center
+    title: EdTech Program Command Center
+    section: III
+    tier: T1
+    live: "https://freddricklogan.github.io/edtech-program-command-center/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Executive command center for running educational-technology programs across cohorts and outcomes.
+    tech: JavaScript, Data Visualization
+    image: 1758073519996-6d3c63b4922c
+    alt: Photograph for EdTech Program Command Center
+  - repo: psf-utilization-analytics
+    title: PSF Utilization Analytics
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/psf-utilization-analytics/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: The utilization, realization and leverage arithmetic a managing partner runs every month, computed from an editable staffing table.
+    tech: TypeScript, Vite, Vitest
+    image: 1581091870598-36ce9bad5c77
+    alt: Photograph of a meeting for PSF Utilization Analytics
+  - repo: ai-strategy-lab
+    title: AI Strategy Lab
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/ai-strategy-lab/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Build, buy, wait or review — an AI investment decision with the rule that produced the answer printed beside it.
+    tech: TypeScript, Vite, Vitest
+    image: 1528819622765-d6bcf132f793
+    alt: Photograph of chess pieces for AI Strategy Lab
+  - repo: venture-finance-modeler
+    title: Venture Finance Modeler
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/venture-finance-modeler/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Dilution, conversion and waterfall arithmetic founders sign without running — run, with every step shown.
+    tech: TypeScript, Vite, Vitest
+    image: 1651341050677-24dba59ce0fd
+    alt: Photograph of a chart interface for Venture Finance Modeler
+  - repo: strategic-project-radar
+    title: Strategic Project Radar
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/strategic-project-radar/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Earned value with the formulas on the page and a finish date that is a distribution, not a point.
+    tech: TypeScript, Vite, Vitest
+    image: 1526628953301-3e589a6a8b74
+    alt: Photograph of a reporting dashboard for Strategic Project Radar
+  - repo: innovation-portfolio-radar
+    title: Innovation Portfolio Radar
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/innovation-portfolio-radar/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Three horizons, option value and a kill decision with its reason printed.
+    tech: TypeScript, Vite, Vitest
+    image: 1676405034160-a389faf8331d
+    alt: Photograph of a control room for Innovation Portfolio Radar
+  - repo: venture-canvas-studio
+    title: Venture Canvas Studio
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/venture-canvas-studio/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: A lean canvas that knows which of its beliefs have been tested and which are still assumptions.
+    tech: TypeScript, Vite, Vitest
+    image: 1581091877018-dac6a371d50f
+    alt: Photograph of colleagues at a whiteboard for Venture Canvas Studio
+  - repo: enterprise-operating-model-kit
+    title: Enterprise Operating Model Kit
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/enterprise-operating-model-kit/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Capability heat-map, generated RACI and a verified OKR cascade — diagnostics rather than slides.
+    tech: TypeScript, Vite, Vitest
+    image: 1557804506-669a67965ba0
+    alt: Photograph of a whiteboard meeting for Enterprise Operating Model Kit
+  - repo: algo-trading-research-kit
+    title: Algo Trading Research Kit
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/algo-trading-research-kit/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: "A backtester built to show that a strategy does not work: costs, slippage, walk-forward validation and the honest equity curve."
+    tech: TypeScript, Vite, Vitest
+    image: 1560221328-12fe60f83ab8
+    alt: Photograph of a market chart for Algo Trading Research Kit
+  - repo: growth-analytics-engine
+    title: Growth Analytics Engine
+    section: VI
+    tier: T2
+    live: "https://freddricklogan.github.io/growth-analytics-engine/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Attribution, cohorts and uplift on a seeded event stream, with a report that says what each method can and cannot know.
+    tech: Python, NumPy, Streamlit
+    image: 1460925895917-afdab827c52f
+    alt: Photograph of statistics on a laptop for Growth Analytics Engine
+  - repo: learning-resource-kit
+    title: Learning Resource Kit
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/learning-resource-kit/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: The shared layer — shell, quiz engine, glossary, workflows — that turns ten authored pages into one consistent learning product.
+    tech: Interactive resource kit
+    format: true
+    image: 1625053376622-e462848c453f
+    alt: Photograph of library shelves for Learning Resource Kit
+  - repo: qualitative-research-methods
+    title: Qualitative Research
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/qualitative-research-methods/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Paradigms, the five approaches, sampling, coding, and trustworthiness.
+    tech: Interactive resource
+    format: true
+    image: 1734971702269-60d36fc28829
+    alt: Photograph for Qualitative Research
+  - repo: quantitative-inquiry
+    title: Quantitative Inquiry in Education
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/quantitative-inquiry/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Measurement, inference, and effect size with a guided test-selector.
+    tech: Interactive resource
+    format: true
+    image: 1634730336473-8b8ab5f1796d
+    alt: Technology photograph for Quantitative Inquiry in Education
+  - repo: educational-policy-analysis
+    title: Educational Policy Analysis & Program Evaluation
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/educational-policy-analysis/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Decision analysis, logic models, and program evaluation.
+    tech: Interactive resource
+    format: true
+    image: 1675044794074-8dea291acb7d
+    alt: Technology photograph for Educational Policy Analysis & Program Evaluation
+  - repo: educational-leadership
+    title: Educational Leadership & School Improvement
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/educational-leadership/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Organizational theory, improvement science, and education law.
+    tech: Interactive resource
+    format: true
+    image: 1664526936959-84bdea9f37fa
+    alt: Technology photograph for Educational Leadership & School Improvement
+  - repo: higher-education-leadership
+    title: Higher Education Leadership & Governance
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/higher-education-leadership/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Governance, finance, and student development.
+    tech: Interactive resource
+    format: true
+    image: 1777171502249-92a06d1b547a
+    alt: Technology photograph for Higher Education Leadership & Governance
+  - repo: global-higher-education
+    title: Global Higher Education & Internationalization
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/global-higher-education/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Internationalization strategy and comparative systems.
+    tech: Interactive resource
+    format: true
+    image: 1770368437389-86bde15fcb33
+    alt: Technology photograph for Global Higher Education & Internationalization
+  - repo: teaching-and-teacher-education
+    title: Teaching, Teacher Education & Curriculum
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/teaching-and-teacher-education/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Pedagogy, teacher development, and curriculum design.
+    tech: Interactive resource
+    format: true
+    image: 1737505599162-d9932323a889
+    alt: Technology photograph for Teaching, Teacher Education & Curriculum
+  - repo: museums-informal-learning
+    title: Museums & Informal Learning
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/museums-informal-learning/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Free-choice learning and the Contextual Model.
+    tech: Interactive resource
+    format: true
+    image: 1781798472524-1e91dd9bf0ac
+    alt: Technology photograph for Museums & Informal Learning
+  - repo: online-course-design
+    title: Online Course Design Studio
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/online-course-design/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Instructional design, assessment, and HyFlex delivery.
+    tech: Interactive resource
+    format: true
+    image: 1630794180018-433d915c34ac
+    alt: Technology photograph for Online Course Design Studio
+  - repo: accessibility-udl
+    title: Accessibility & UDL Toolkit
+    section: IV
+    tier: T2
+    live: "https://freddricklogan.github.io/accessibility-udl/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: WCAG and Universal Design for Learning with a live contrast checker.
+    tech: Interactive resource
+    format: true
+    image: 1774132221890-bbfc4a064fd4
+    alt: Technology photograph for Accessibility & UDL Toolkit
+  - repo: monte-carlo-simulator
+    title: Monte Carlo Simulator
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/monte-carlo-simulator/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Options pricing, Pi estimation, Brownian motion, and portfolio VaR via Monte Carlo methods.
+    tech: JavaScript, Chart.js, Web Workers
+    image: 1562408590-e32931084e23
+    alt: Technology photograph for Monte Carlo Simulator
+  - repo: fintech-risk-analytics
+    title: FinTech Risk Analytics
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/fintech-risk-analytics/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Portfolio risk analysis with Value-at-Risk, Monte Carlo, and Black-Scholes pricing.
+    tech: JavaScript, Plotly.js
+    image: 1526374965328-7f61d4dc18c5
+    alt: Technology photograph for FinTech Risk Analytics
+  - repo: earthquake-visualization
+    title: Earthquake Visualization
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/earthquake-visualization/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Real-time interactive map of global seismic activity.
+    tech: JavaScript, Leaflet.js, D3.js
+    image: 1617396900799-f4ec2b43c7ae
+    alt: Technology photograph for Earthquake Visualization
+  - repo: cybersecurity-incident-dashboard
+    title: Cybersecurity Incident Dashboard
+    section: II
+    tier: T2
+    live: "https://freddricklogan.github.io/cybersecurity-incident-dashboard/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Security-operations dashboard with MITRE ATT&CK incident mapping.
+    tech: JavaScript, Chart.js, D3.js
+    image: 1580584126903-c17d41830450
+    alt: Technology photograph for Cybersecurity Incident Dashboard
+  - repo: network-vulnerability-scanner
+    title: Network Vulnerability Scanner
+    section: II
+    tier: T2
+    live: "https://freddricklogan.github.io/network-vulnerability-scanner/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Simulated vulnerability assessment with CVE detection and compliance checks.
+    tech: JavaScript, Chart.js
+    image: 1674027444485-cec3da58eef4
+    alt: Technology photograph for Network Vulnerability Scanner
+  - repo: encryption-toolkit
+    title: Encryption Toolkit
+    section: II
+    tier: T2
+    live: "https://freddricklogan.github.io/encryption-toolkit/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: AES-256, RSA, SHA hashing, digital signatures, and steganography in the browser.
+    tech: JavaScript, Web Crypto API
+    image: 1497493292307-31c376b6e479
+    alt: Technology photograph for Encryption Toolkit
+  - repo: serverless-workflow-simulator
+    title: Serverless Workflow Simulator
+    section: II
+    tier: T2
+    live: "https://freddricklogan.github.io/serverless-workflow-simulator/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Event-driven Lambda pipeline simulation with cold-start and cost analysis.
+    tech: JavaScript, Chart.js
+    image: 1517433456452-f9633a875f6f
+    alt: Technology photograph for Serverless Workflow Simulator
+  - repo: cloud-cost-optimizer
+    title: Cloud Cost Optimizer
+    section: II
+    tier: T2
+    live: "https://freddricklogan.github.io/cloud-cost-optimizer/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Multi-cloud FinOps dashboard with right-sizing and reserved-instance analysis.
+    tech: JavaScript, Chart.js
+    image: 1545987796-200677ee1011
+    alt: Technology photograph for Cloud Cost Optimizer
+  - repo: Education-Leadership-Dashboard
+    title: Education Leadership Dashboard
+    section: III
+    tier: T2
+    live: "https://freddricklogan.github.io/Education-Leadership-Dashboard/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Analytics platform supporting data-informed decisions for educational administrators.
+    tech: Data, Decision Support
+    image: 1720962158937-7ea890052166
+    alt: Technology photograph for Education Leadership Dashboard
+  - repo: Educational-LMS-Prototype
+    title: Educational LMS Prototype
+    section: III
+    tier: T2
+    live: "https://freddricklogan.github.io/Educational-LMS-Prototype/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Modern learning-management concept with an analytics and accessibility focus.
+    tech: LMS, Analytics
+    image: 1637664067109-a6a00840d894
+    alt: Technology photograph for Educational LMS Prototype
+  - repo: Remote-Education-Toolkit
+    title: Remote Education Toolkit
+    section: III
+    tier: T2
+    live: "https://freddricklogan.github.io/Remote-Education-Toolkit/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Web tools for remote educators — attendance, timers, and discussion facilitation.
+    tech: JavaScript, EdTech
+    image: 1649406458887-2b6561c36a4d
+    alt: Technology photograph for Remote Education Toolkit
+  - repo: Government-Service-Portal
+    title: Government Service Portal
+    section: III
+    tier: T2
+    live: "https://freddricklogan.github.io/Government-Service-Portal/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Prototype for streamlined, citizen-facing government services.
+    tech: UX, Service Design
+    image: 1511376777868-611b54f68947
+    alt: Technology photograph for Government Service Portal
+  - repo: belly-button-challenge
+    title: Belly Button Biodiversity
+    section: I
+    tier: T3
+    live: "https://freddricklogan.github.io/belly-button-challenge/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Interactive explorer for microbial biodiversity datasets.
+    tech: JavaScript, D3.js, Plotly.js
+    image: 1511447333015-45b65e60f6d5
+    alt: Technology photograph for Belly Button Biodiversity
+  - repo: UFO-Sightings
+    title: UFO Sightings Dashboard
+    section: I
+    tier: T3
+    live: "https://freddricklogan.github.io/UFO-Sightings/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Filterable dashboard for exploring UFO sighting records.
+    tech: JavaScript, D3.js
+    image: 1609705025038-60908171cf5e
+    alt: Technology photograph for UFO Sightings Dashboard
+  - repo: secure-password-generator
+    title: Secure Password Generator
+    section: II
+    tier: T3
+    live: "https://freddricklogan.github.io/secure-password-generator/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Cryptographically secure password generator with enterprise policy controls.
+    tech: JavaScript, Web Crypto API
+    image: 1510511459019-5dda7724fd87
+    alt: Technology photograph for Secure Password Generator
+  - repo: DeepLearning-Charity
+    title: Deep Learning Charity Predictor
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/DeepLearning-Charity/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Neural network that predicts nonprofit funding success from application data.
+    tech: TensorFlow, Keras, Scikit-learn
+    image: 1568952433726-3896e3881c65
+    alt: Photograph for Deep Learning Charity Predictor
+  - repo: SentimentAnalysis-System
+    title: Sentiment Analysis System
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/SentimentAnalysis-System/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: NLP engine for sentiment, emotion, and aspect-based text analysis.
+    tech: Python, NLP, ML
+    image: 1644088379091-d574269d422f
+    alt: Technology photograph for Sentiment Analysis System
+  - repo: Crypto-Clustering
+    title: Crypto Clustering
+    section: I
+    tier: T2
+    live: "https://freddricklogan.github.io/Crypto-Clustering/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Unsupervised learning to classify cryptocurrencies by market behavior.
+    tech: Python, Scikit-learn, PCA
+    image: 1644325349124-d1756b79dd42
+    alt: Technology photograph for Crypto Clustering
+  - repo: MedicalTreatment-Analytics
+    title: Medical Treatment Analytics
+    section: I
+    tier: T3
+    live: "https://freddricklogan.github.io/MedicalTreatment-Analytics/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Statistical analysis of cancer-treatment efficacy across regimens.
+    tech: Python, Pandas, Matplotlib
+    image: 1576400883215-7083980b6193
+    alt: Technology photograph for Medical Treatment Analytics
+  - repo: WebScraping-Mars
+    title: Mars Web Scraping
+    section: I
+    tier: T3
+    live: "https://freddricklogan.github.io/WebScraping-Mars/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Scrapes and aggregates Mars-mission data into a live dashboard.
+    tech: Python, Flask, BeautifulSoup, MongoDB
+    image: 1484417894907-623942c8ee29
+    alt: Technology photograph for Mars Web Scraping
+  - repo: cli-development-tools
+    title: CLI Development Tools
+    section: V
+    tier: T2
+    live: null
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Five command-line utilities — API tester, dev server, file organizer, git helper, and project scaffolder.
+    tech: Node.js, Python
+    image: 1741447096161-a6b4e3398d0e
+    alt: Photograph for CLI Development Tools
+  - repo: python-utilities
+    title: Python Utilities
+    section: V
+    tier: T3
+    live: null
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Command-line blog manager, todo app, and weather app.
+    tech: Python
+    image: 1781746875712-fb3473667251
+    alt: Technology photograph for Python Utilities
+  - repo: EdTech-Policy-Framework
+    title: EdTech Policy Framework
+    section: III
+    tier: T3
+    live: "https://freddricklogan.github.io/EdTech-Policy-Framework/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Governance framework for ed-tech policy development and compliance.
+    tech: Policy, Compliance
+    image: 1562575214-ffefa379432a
+    alt: Technology photograph for EdTech Policy Framework
+  - repo: AI-Ethics-Education-Framework
+    title: AI Ethics Education Framework
+    section: III
+    tier: T3
+    live: "https://freddricklogan.github.io/AI-Ethics-Education-Framework/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Practical guidelines for the ethical use of AI in education.
+    tech: Ethics, Policy
+    image: 1639152201720-5e536d254d81
+    alt: Technology photograph for AI Ethics Education Framework
+  - repo: Public-Service-Digital-Transformation
+    title: Public Service Digital Transformation
+    section: III
+    tier: T3
+    live: "https://freddricklogan.github.io/Public-Service-Digital-Transformation/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Playbook for digitizing government and education services.
+    tech: Change Management
+    image: 1589254065878-42c9da997008
+    alt: Technology photograph for Public Service Digital Transformation
+  - repo: Blockchain-Educational-Credentials
+    title: Blockchain Educational Credentials
+    section: III
+    tier: T3
+    live: null
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: archived
+    successor: verifiable-academic-credentials
+    description: Verifiable-credential system built on blockchain primitives.
+    tech: Blockchain, Security
+    image: 1490775949603-0e355e8e01ba
+    alt: Technology photograph for Blockchain Educational Credentials
+  - repo: tech-enhanced-learning
+    title: Tech-Enhanced Learning
+    section: III
+    tier: T3
+    live: "https://freddricklogan.github.io/tech-enhanced-learning/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: Course site delivering structured modules and learning resources.
+    tech: Jekyll, GitHub Pages
+    image: 1555949963-aa79dcee981c
+    alt: Technology photograph for Tech-Enhanced Learning
+  - repo: python-data-fundamentals
+    title: Python Data Fundamentals
+    section: I
+    tier: T3
+    live: "https://freddricklogan.github.io/python-data-fundamentals/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    replaces: [PyBank, PyPoll, Election-Analysis, Financial-Analysis]
+    description: "PyBank and PyPoll as one tested package: validated CSV parsing, edge cases the scripts ignored, reports that match the originals byte for byte."
+    tech: Python 3.12, typer, pytest
+    image: 1488229297570-58520851e868
+    alt: Photograph for Python Data Fundamentals
