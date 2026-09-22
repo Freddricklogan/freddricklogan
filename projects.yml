@@ -17,6 +17,8 @@
 #   issued      (section VI) month the programme certificate was issued (docs/MODERNIZATION_BLUEPRINT.md §2B)
 #   demo_route  route of the demo on the deployed host when `live` is null (rendered as a note, never as a dead link)
 # Tier labels rendered as shields: T1 Flagship · T2 Showcase · T3 Consolidated.
+#   theme       Executive Shell palette (data-theme): I signal · II graphite · III ember · IV plum · V forest · VI midnight
+#   accent      primary (default) | secondary — swaps the palette's two hues for variety inside a category
 #
 # sections: the portfolio taxonomy rendered in order (num, id, title, noun, collapsible, intro)
 # featured: six repos shown in the 3×2 grid after the Executive Summary (copy: docs/copy/profile-readme-copy.md)
@@ -73,6 +75,7 @@ projects:
     image: 1512756290469-ec264b7fbf87
     alt: Technology photograph for Student Engagement API
     demo_route: /docs   # Scalar API reference on the deployed host (README §6); no host is provisioned yet
+    theme: ember
   - repo: siem-log-analyzer
     title: SIEM Log Analyzer
     section: II
@@ -85,6 +88,7 @@ projects:
     tech: JavaScript, Chart.js
     image: 1484557052118-f32bd25b45b5
     alt: Technology photograph for SIEM Log Analyzer
+    theme: graphite
   - repo: verifiable-academic-credentials
     title: Verifiable Academic Credentials
     section: III
@@ -97,6 +101,7 @@ projects:
     tech: JavaScript, Web Crypto
     image: 1593349480506-8433634cdcbe
     alt: Technology photograph for Verifiable Academic Credentials
+    theme: ember
   - repo: aws-terraform-gameday
     title: AWS Terraform Game Day
     section: II
@@ -109,6 +114,7 @@ projects:
     tech: Terraform, AWS, HCL
     image: 1523961131990-5ea7c61b2107
     alt: Photograph for AWS Terraform Game Day
+    theme: graphite
   - repo: neural-network-playground
     title: Neural Network Playground
     section: I
@@ -121,6 +127,7 @@ projects:
     tech: JavaScript, Canvas API, Chart.js
     image: 1551288049-bebda4e38f71
     alt: Unsplash technology photograph for Neural Network Playground
+    theme: signal
   - repo: epidemic-modeling-dashboard
     title: Epidemic Modeling Dashboard
     section: I
@@ -133,6 +140,8 @@ projects:
     tech: JavaScript, Chart.js, RK4
     image: 1597733336794-12d05021d510
     alt: Technology photograph for Epidemic Modeling Dashboard
+    theme: signal
+    accent: secondary
   - repo: cloud-architecture-designer
     title: Cloud Architecture Designer
     section: II
@@ -145,6 +154,7 @@ projects:
     tech: JavaScript, HTML5 Canvas
     image: 1518770660439-4636190af475
     alt: Unsplash technology photograph for Cloud Architecture Designer
+    theme: graphite
   - repo: edtech-program-command-center
     title: EdTech Program Command Center
     section: III
@@ -157,6 +167,7 @@ projects:
     tech: JavaScript, Data Visualization
     image: 1758073519996-6d3c63b4922c
     alt: Photograph for EdTech Program Command Center
+    theme: ember
   - repo: psf-utilization-analytics
     title: PSF Utilization Analytics
     section: VI
@@ -171,6 +182,7 @@ projects:
     alt: Photograph of a meeting for PSF Utilization Analytics
     programme: "Leading Professional Service Firms"
     issued: Aug 2023
+    theme: midnight
   - repo: ai-strategy-lab
     title: AI Strategy Lab
     section: VI
@@ -185,6 +197,7 @@ projects:
     alt: Photograph of chess pieces for AI Strategy Lab
     programme: "Artificial Intelligence"
     issued: Jul 2023
+    theme: midnight
   - repo: venture-finance-modeler
     title: Venture Finance Modeler
     section: VI
@@ -199,6 +212,7 @@ projects:
     alt: Photograph of a chart interface for Venture Finance Modeler
     programme: "Entrepreneurship: Venture Finance"
     issued: Oct 2023
+    theme: midnight
   - repo: strategic-project-radar
     title: Strategic Project Radar
     section: VI
@@ -213,6 +227,7 @@ projects:
     alt: Photograph of a reporting dashboard for Strategic Project Radar
     programme: "Leading Strategic Projects"
     issued: Aug 2023
+    theme: midnight
   - repo: innovation-portfolio-radar
     title: Innovation Portfolio Radar
     section: VI
@@ -227,6 +242,7 @@ projects:
     alt: Photograph of a control room for Innovation Portfolio Radar
     programme: "Strategic Innovation"
     issued: Feb 2024
+    theme: midnight
   - repo: venture-canvas-studio
     title: Venture Canvas Studio
     section: VI
@@ -241,6 +257,8 @@ projects:
     alt: Photograph of colleagues at a whiteboard for Venture Canvas Studio
     programme: "Entrepreneurship: Venture Creation"
     issued: Aug 2023
+    theme: midnight
+    accent: secondary
   - repo: enterprise-operating-model-kit
     title: Enterprise Operating Model Kit
     section: VI
@@ -255,6 +273,7 @@ projects:
     alt: Photograph of a whiteboard meeting for Enterprise Operating Model Kit
     programme: "Enterprise Leadership"
     issued: May 2023
+    theme: midnight
   - repo: algo-trading-research-kit
     title: Algo Trading Research Kit
     section: VI
@@ -269,6 +288,7 @@ projects:
     alt: Photograph of a market chart for Algo Trading Research Kit
     programme: "Algorithmic Trading"
     issued: Jan 2024
+    theme: midnight
   - repo: growth-analytics-engine
     title: Growth Analytics Engine
     section: VI
@@ -283,6 +303,7 @@ projects:
     alt: Photograph of statistics on a laptop for Growth Analytics Engine
     programme: "Digital Marketing: Disruptive Strategy"
     issued: Oct 2023
+    theme: midnight
   - repo: learning-resource-kit
     title: Learning Resource Kit
     section: IV
@@ -296,6 +317,7 @@ projects:
     format: true
     image: 1625053376622-e462848c453f
     alt: Photograph of library shelves for Learning Resource Kit
+    theme: plum
   - repo: qualitative-research-methods
     title: Qualitative Research
     section: IV
@@ -309,6 +331,7 @@ projects:
     format: true
     image: 1734971702269-60d36fc28829
     alt: Photograph for Qualitative Research
+    theme: plum
   - repo: quantitative-inquiry
     title: Quantitative Inquiry in Education
     section: IV
@@ -322,6 +345,7 @@ projects:
     format: true
     image: 1634730336473-8b8ab5f1796d
     alt: Technology photograph for Quantitative Inquiry in Education
+    theme: plum
   - repo: educational-policy-analysis
     title: Educational Policy Analysis & Program Evaluation
     section: IV
@@ -335,6 +359,7 @@ projects:
     format: true
     image: 1675044794074-8dea291acb7d
     alt: Technology photograph for Educational Policy Analysis & Program Evaluation
+    theme: plum
   - repo: educational-leadership
     title: Educational Leadership & School Improvement
     section: IV
@@ -348,6 +373,7 @@ projects:
     format: true
     image: 1664526936959-84bdea9f37fa
     alt: Technology photograph for Educational Leadership & School Improvement
+    theme: plum
   - repo: higher-education-leadership
     title: Higher Education Leadership & Governance
     section: IV
@@ -361,6 +387,7 @@ projects:
     format: true
     image: 1777171502249-92a06d1b547a
     alt: Technology photograph for Higher Education Leadership & Governance
+    theme: plum
   - repo: global-higher-education
     title: Global Higher Education & Internationalization
     section: IV
@@ -374,6 +401,7 @@ projects:
     format: true
     image: 1770368437389-86bde15fcb33
     alt: Technology photograph for Global Higher Education & Internationalization
+    theme: plum
   - repo: teaching-and-teacher-education
     title: Teaching, Teacher Education & Curriculum
     section: IV
@@ -387,6 +415,7 @@ projects:
     format: true
     image: 1737505599162-d9932323a889
     alt: Technology photograph for Teaching, Teacher Education & Curriculum
+    theme: plum
   - repo: museums-informal-learning
     title: Museums & Informal Learning
     section: IV
@@ -400,6 +429,7 @@ projects:
     format: true
     image: 1781798472524-1e91dd9bf0ac
     alt: Technology photograph for Museums & Informal Learning
+    theme: plum
   - repo: online-course-design
     title: Online Course Design Studio
     section: IV
@@ -413,6 +443,8 @@ projects:
     format: true
     image: 1630794180018-433d915c34ac
     alt: Technology photograph for Online Course Design Studio
+    theme: plum
+    accent: secondary
   - repo: accessibility-udl
     title: Accessibility & UDL Toolkit
     section: IV
@@ -426,6 +458,7 @@ projects:
     format: true
     image: 1774132221890-bbfc4a064fd4
     alt: Technology photograph for Accessibility & UDL Toolkit
+    theme: plum
   - repo: monte-carlo-simulator
     title: Monte Carlo Simulator
     section: I
@@ -438,6 +471,7 @@ projects:
     tech: JavaScript, Chart.js, Web Workers
     image: 1562408590-e32931084e23
     alt: Technology photograph for Monte Carlo Simulator
+    theme: signal
   - repo: fintech-risk-analytics
     title: FinTech Risk Analytics
     section: I
@@ -450,6 +484,7 @@ projects:
     tech: JavaScript, Plotly.js
     image: 1526374965328-7f61d4dc18c5
     alt: Technology photograph for FinTech Risk Analytics
+    theme: signal
   - repo: earthquake-visualization
     title: Earthquake Visualization
     section: I
@@ -462,6 +497,7 @@ projects:
     tech: JavaScript, Leaflet.js, D3.js
     image: 1617396900799-f4ec2b43c7ae
     alt: Technology photograph for Earthquake Visualization
+    theme: signal
   - repo: cybersecurity-incident-dashboard
     title: Cybersecurity Incident Dashboard
     section: II
@@ -474,6 +510,7 @@ projects:
     tech: JavaScript, Chart.js, D3.js
     image: 1580584126903-c17d41830450
     alt: Technology photograph for Cybersecurity Incident Dashboard
+    theme: graphite
   - repo: network-vulnerability-scanner
     title: Network Vulnerability Scanner
     section: II
@@ -486,6 +523,7 @@ projects:
     tech: JavaScript, Chart.js
     image: 1674027444485-cec3da58eef4
     alt: Technology photograph for Network Vulnerability Scanner
+    theme: graphite
   - repo: encryption-toolkit
     title: Encryption Toolkit
     section: II
@@ -498,6 +536,8 @@ projects:
     tech: JavaScript, Web Crypto API
     image: 1497493292307-31c376b6e479
     alt: Technology photograph for Encryption Toolkit
+    theme: graphite
+    accent: secondary
   - repo: serverless-workflow-simulator
     title: Serverless Workflow Simulator
     section: II
@@ -510,6 +550,7 @@ projects:
     tech: JavaScript, Chart.js
     image: 1517433456452-f9633a875f6f
     alt: Technology photograph for Serverless Workflow Simulator
+    theme: graphite
   - repo: cloud-cost-optimizer
     title: Cloud Cost Optimizer
     section: II
@@ -522,6 +563,8 @@ projects:
     tech: JavaScript, Chart.js
     image: 1545987796-200677ee1011
     alt: Technology photograph for Cloud Cost Optimizer
+    theme: graphite
+    accent: secondary
   - repo: Education-Leadership-Dashboard
     title: Education Leadership Dashboard
     section: III
@@ -534,6 +577,7 @@ projects:
     tech: Data, Decision Support
     image: 1720962158937-7ea890052166
     alt: Technology photograph for Education Leadership Dashboard
+    theme: ember
   - repo: Educational-LMS-Prototype
     title: Educational LMS Prototype
     section: III
@@ -546,6 +590,7 @@ projects:
     tech: LMS, Analytics
     image: 1637664067109-a6a00840d894
     alt: Technology photograph for Educational LMS Prototype
+    theme: ember
   - repo: Remote-Education-Toolkit
     title: Remote Education Toolkit
     section: III
@@ -558,6 +603,8 @@ projects:
     tech: JavaScript, EdTech
     image: 1649406458887-2b6561c36a4d
     alt: Technology photograph for Remote Education Toolkit
+    theme: ember
+    accent: secondary
   - repo: Government-Service-Portal
     title: Government Service Portal
     section: III
@@ -570,6 +617,7 @@ projects:
     tech: UX, Service Design
     image: 1511376777868-611b54f68947
     alt: Technology photograph for Government Service Portal
+    theme: ember
   - repo: belly-button-challenge
     title: Belly Button Biodiversity
     section: I
@@ -582,6 +630,7 @@ projects:
     tech: JavaScript, D3.js, Plotly.js
     image: 1511447333015-45b65e60f6d5
     alt: Technology photograph for Belly Button Biodiversity
+    theme: signal
   - repo: UFO-Sightings
     title: UFO Sightings Dashboard
     section: I
@@ -594,6 +643,8 @@ projects:
     tech: JavaScript, D3.js
     image: 1609705025038-60908171cf5e
     alt: Technology photograph for UFO Sightings Dashboard
+    theme: signal
+    accent: secondary
   - repo: secure-password-generator
     title: Secure Password Generator
     section: II
@@ -606,6 +657,7 @@ projects:
     tech: JavaScript, Web Crypto API
     image: 1510511459019-5dda7724fd87
     alt: Technology photograph for Secure Password Generator
+    theme: graphite
   - repo: DeepLearning-Charity
     title: Deep Learning Charity Predictor
     section: I
@@ -618,6 +670,7 @@ projects:
     tech: TensorFlow, Keras, Scikit-learn
     image: 1568952433726-3896e3881c65
     alt: Photograph for Deep Learning Charity Predictor
+    theme: signal
   - repo: SentimentAnalysis-System
     title: Sentiment Analysis System
     section: I
@@ -630,6 +683,7 @@ projects:
     tech: Python, NLP, ML
     image: 1644088379091-d574269d422f
     alt: Technology photograph for Sentiment Analysis System
+    theme: signal
   - repo: Crypto-Clustering
     title: Crypto Clustering
     section: I
@@ -642,6 +696,7 @@ projects:
     tech: Python, Scikit-learn, PCA
     image: 1644325349124-d1756b79dd42
     alt: Technology photograph for Crypto Clustering
+    theme: signal
   - repo: MedicalTreatment-Analytics
     title: Medical Treatment Analytics
     section: I
@@ -654,6 +709,8 @@ projects:
     tech: Python, Pandas, Matplotlib
     image: 1576400883215-7083980b6193
     alt: Technology photograph for Medical Treatment Analytics
+    theme: signal
+    accent: secondary
   - repo: WebScraping-Mars
     title: Mars Web Scraping
     section: I
@@ -666,6 +723,7 @@ projects:
     tech: Python, Flask, BeautifulSoup, MongoDB
     image: 1484417894907-623942c8ee29
     alt: Technology photograph for Mars Web Scraping
+    theme: signal
   - repo: cli-development-tools
     title: CLI Development Tools
     section: V
@@ -678,6 +736,7 @@ projects:
     tech: Node.js, Python
     image: 1741447096161-a6b4e3398d0e
     alt: Photograph for CLI Development Tools
+    theme: forest
   - repo: python-utilities
     title: Python Utilities
     section: V
@@ -690,6 +749,7 @@ projects:
     tech: Python
     image: 1781746875712-fb3473667251
     alt: Technology photograph for Python Utilities
+    theme: forest
   - repo: EdTech-Policy-Framework
     title: EdTech Policy Framework
     section: III
@@ -702,6 +762,7 @@ projects:
     tech: Policy, Compliance
     image: 1562575214-ffefa379432a
     alt: Technology photograph for EdTech Policy Framework
+    theme: ember
   - repo: AI-Ethics-Education-Framework
     title: AI Ethics Education Framework
     section: III
@@ -714,6 +775,7 @@ projects:
     tech: Ethics, Policy
     image: 1639152201720-5e536d254d81
     alt: Technology photograph for AI Ethics Education Framework
+    theme: ember
   - repo: Public-Service-Digital-Transformation
     title: Public Service Digital Transformation
     section: III
@@ -726,6 +788,7 @@ projects:
     tech: Change Management
     image: 1589254065878-42c9da997008
     alt: Technology photograph for Public Service Digital Transformation
+    theme: ember
   - repo: Blockchain-Educational-Credentials
     title: Blockchain Educational Credentials
     section: III
@@ -739,6 +802,7 @@ projects:
     tech: Blockchain, Security
     image: 1490775949603-0e355e8e01ba
     alt: Technology photograph for Blockchain Educational Credentials
+    theme: ember
   - repo: tech-enhanced-learning
     title: Tech-Enhanced Learning
     section: III
@@ -751,6 +815,7 @@ projects:
     tech: Jekyll, GitHub Pages
     image: 1555949963-aa79dcee981c
     alt: Technology photograph for Tech-Enhanced Learning
+    theme: ember
   - repo: python-data-fundamentals
     title: Python Data Fundamentals
     section: I
@@ -764,3 +829,4 @@ projects:
     tech: Python 3.12, typer, pytest
     image: 1488229297570-58520851e868
     alt: Photograph for Python Data Fundamentals
+    theme: signal
