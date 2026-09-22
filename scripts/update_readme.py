@@ -4,8 +4,8 @@ The block between `<!-- portfolio:start -->` and `<!-- portfolio:end -->` is rep
 else in README.md is left alone. It contains, in order: the Featured grid and the five-minute review
 (verbatim HTML from docs/copy/profile-readme-copy.md with `{{repo.thumbnail}}` / `{{repo.demo}}`
 resolved from projects.yml), the index with counts, one anchored section per `sections:` entry
-(rows sorted by tier; `collapsible` sections wrapped in <details open>; no heading inside a
-<summary>), and the Roadmap.
+(rows sorted by tier; a 12 px swatch in the repo's category palette before each title; `collapsible`
+sections wrapped in <details open>; no heading inside a <summary>), and the Roadmap.
 
 Usage: python3 scripts/update_readme.py [--check]   (--check exits 1 when README.md is stale)
 """
@@ -29,6 +29,11 @@ START, END = "<!-- portfolio:start -->", "<!-- portfolio:end -->"
 IMG = "https://images.unsplash.com/photo-{id}?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80"
 GH = "https://github.com/Freddricklogan/{repo}"
 TIER = {"T1": ("Flagship", "58a6ff"), "T2": ("Showcase", "3fb950"), "T3": ("Consolidated", "8b98b0")}
+# Category palettes (dark-scheme primary / secondary), the same values as the Executive Shell's exec-shell.css.
+THEME_HUES = {
+    "signal": ("818cf8", "2dd4bf"), "graphite": ("f59e0b", "a3e635"), "ember": ("e0b356", "f4845f"),
+    "plum": ("c084fc", "6ee7b7"), "forest": ("a3e635", "7dd3fc"), "midnight": ("d4a95a", "58a6ff"),
+}
 README_DEMO_SECTION = "#6-live-demo--production-showcase"
 
 
@@ -85,6 +90,16 @@ def resolve(html: str, by: dict[str, dict]) -> str:
     return out
 
 
+def swatch(p: dict) -> str:
+    """12 px square in the repo's category colour (its accent when it uses the secondary hue)."""
+    primary, secondary = THEME_HUES[p["theme"]]
+    hue = secondary if p.get("accent") == "secondary" else primary
+    return (
+        f'<img src="https://img.shields.io/badge/%20-%20-{hue}" width="12" height="12" '
+        f'alt="{escape(p["theme"])} palette" title="{escape(p["theme"])} palette" /> '
+    )
+
+
 def shields(p: dict) -> str:
     label, colour = TIER[p["tier"]]
     parts = [f'<img src="https://img.shields.io/badge/tier-{label}-{colour}" alt="Tier: {label}" height="16" />']
@@ -114,7 +129,7 @@ def row(p: dict) -> str:
     return (
         "<tr>\n"
         f'<td width="150"><img src="{thumbnail(p)}" width="150" alt="{escape(p["alt"])}" /></td>\n'
-        f'<td valign="top"><b><a href="{escape(href)}">{escape(p["title"])}</a></b><br />{escape(p["description"])}'
+        f'<td valign="top">{swatch(p)}<b><a href="{escape(href)}">{escape(p["title"])}</a></b><br />{escape(p["description"])}'
         f'{subs}<br /><sub>{" &middot; ".join(links)}</sub><br />{shields(p)}</td>\n'
         "</tr>"
     )
