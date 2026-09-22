@@ -139,7 +139,7 @@ qualitative-research-methods · quantitative-inquiry · educational-policy-analy
 **Executive pitch.** Enterprises are shipping LLM features faster than they can prove they are safe. Sentinel Ledger sits on the wire between applications and models, detecting prompt injection, PII leakage, data drift and poisoning signals, and producing an audit trail that satisfies the EU AI Act / NIST AI RMF paperwork the CIO is about to be asked for. Business problem: one leaked customer record or one jailbreak screenshot costs more than the whole ML program.
 
 **Architecture & stack.**
-- Gateway: Rust (axum + tower) reverse proxy adding < 2 ms p50 (design target) — streaming-aware, OpenAI/Anthropic-compatible.
+- Gateway: Rust (axum + tower) reverse proxy adding < 2 ms p50 (design target) — streaming-aware, compatible with the common chat-completion API shapes.
 - Detectors as WASM plugins (Extism): prompt-injection classifier (DeBERTa-small distilled to ONNX), PII (Presidio-style recognizers + regex + checksum validators), canary tokens, embedding-drift monitor (PSI/KS on embedding PCA components), output toxicity.
 - Telemetry: OpenTelemetry traces with model-specific semantic conventions → Tempo/ClickHouse; Grafana dashboards or a Next.js console.
 - Storage: append-only audit log with hash chaining (Merkle root published daily) — tamper-evident like the credentials repo.

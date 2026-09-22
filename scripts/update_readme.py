@@ -32,7 +32,7 @@ TIER = {"T1": ("Flagship", "58a6ff"), "T2": ("Showcase", "3fb950"), "T3": ("Cons
 # Category palettes (dark-scheme primary / secondary), the same values as the Executive Shell's exec-shell.css.
 THEME_HUES = {
     "signal": ("818cf8", "2dd4bf"), "graphite": ("f59e0b", "a3e635"), "ember": ("e0b356", "f4845f"),
-    "plum": ("c084fc", "6ee7b7"), "forest": ("a3e635", "7dd3fc"), "midnight": ("d4a95a", "58a6ff"),
+    "plum": ("c084fc", "6ee7b7"), "forest": ("a3e635", "7dd3fc"), "midnight": ("58a6ff", "d4a95a"),
 }
 README_DEMO_SECTION = "#6-live-demo--production-showcase"
 
