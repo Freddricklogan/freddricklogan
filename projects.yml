@@ -62,6 +62,19 @@ roadmap:
     pitch: Self-hostable adaptive RAG tutor with a knowledge-graph skill model that generates objective-aligned assessments and runs on a single GPU node or a laptop.
     anchor: flagship-3--atlas-tutor-adaptive-multimodal-learning-engine-edtech--data-science--distributed-systems
 projects:
+  - repo: elevate-alignment-map
+    title: Elevate Alignment Map
+    section: III
+    tier: T1
+    live: "https://freddricklogan.github.io/elevate-alignment-map/"
+    case_study: docs/CASE_STUDY.md
+    ci: true
+    status: done
+    description: A career-readiness programme as an auditable graph; three reading modes, provenance on every number.
+    tech: Python, Pydantic, Astro, TypeScript, AWS CDK
+    image: 1764605445814-68867e620b74
+    alt: Technology photograph for Elevate Alignment Map
+    theme: ember
   - repo: student-engagement-api
     title: Student Engagement API
     section: III

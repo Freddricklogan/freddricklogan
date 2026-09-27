@@ -113,7 +113,7 @@ Open <a href="https://freddricklogan.github.io/verifiable-academic-credentials/"
 
 [I. Data Architecture &amp; Machine Learning](#data-ml) &mdash; 13 projects<br>
 [II. Cloud Infrastructure &amp; Security](#cloud-security) &mdash; 9 projects<br>
-[III. Educational Technology Systems](#edtech-systems) &mdash; 12 projects<br>
+[III. Educational Technology Systems](#edtech-systems) &mdash; 13 projects<br>
 [IV. Interactive Learning Resources](#learning-resources) &mdash; 11 resources<br>
 [V. Developer Tooling](#developer-tooling) &mdash; 2 projects<br>
 [VI. Executive Programme Projects](#executive-programme) &mdash; 9 projects
@@ -224,9 +224,13 @@ Open <a href="https://freddricklogan.github.io/verifiable-academic-credentials/"
 <a href="#project-portfolio">&#8679; Return to Index</a><br>
 <sub>Jump to: <a href="#data-ml">I</a> &middot; <a href="#cloud-security">II</a> &middot; <a href="#edtech-systems">III</a> &middot; <a href="#learning-resources">IV</a> &middot; <a href="#developer-tooling">V</a> &middot; <a href="#executive-programme">VI</a></sub>
 
-<h2 id="edtech-systems">III. Educational Technology Systems <sub>(12 projects)</sub></h2>
+<h2 id="edtech-systems">III. Educational Technology Systems <sub>(13 projects)</sub></h2>
 
 <table border="0">
+<tr>
+<td width="150"><img src="https://images.unsplash.com/photo-1764605445814-68867e620b74?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Elevate Alignment Map" /></td>
+<td valign="top"><img src="https://img.shields.io/badge/%20-%20-e0b356" width="12" height="12" alt="ember palette" title="ember palette" /> <b><a href="https://freddricklogan.github.io/elevate-alignment-map/">Elevate Alignment Map</a></b><br />A career-readiness programme as an auditable graph; three reading modes, provenance on every number.<br /><sub><b>Tech:</b> Python, Pydantic, Astro, TypeScript, AWS CDK</sub><br /><sub><a href="https://github.com/Freddricklogan/elevate-alignment-map">Source</a> &middot; <a href="https://github.com/Freddricklogan/elevate-alignment-map/blob/main/docs/CASE_STUDY.md">Case study</a></sub><br /><img src="https://img.shields.io/badge/tier-Flagship-58a6ff" alt="Tier: Flagship" height="16" /> <a href="https://github.com/Freddricklogan/elevate-alignment-map/actions/workflows/deploy.yml"><img src="https://github.com/Freddricklogan/elevate-alignment-map/actions/workflows/deploy.yml/badge.svg" alt="CI status for Elevate Alignment Map" height="16" /></a></td>
+</tr>
 <tr>
 <td width="150"><img src="https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?auto=format&amp;fit=crop&amp;w=300&amp;h=180&amp;q=80" width="150" alt="Technology photograph for Student Engagement API" /></td>
 <td valign="top"><img src="https://img.shields.io/badge/%20-%20-e0b356" width="12" height="12" alt="ember palette" title="ember palette" /> <b><a href="https://github.com/Freddricklogan/student-engagement-api">Student Engagement API</a></b><br />REST API for tracking and analyzing student engagement.<br /><sub><b>Tech:</b> Python, Flask, SQLite</sub><br /><sub><a href="https://github.com/Freddricklogan/student-engagement-api">Source</a> &middot; <a href="https://github.com/Freddricklogan/student-engagement-api/blob/main/docs/CASE_STUDY.md">Case study</a></sub><br /><img src="https://img.shields.io/badge/tier-Flagship-58a6ff" alt="Tier: Flagship" height="16" /> <a href="https://github.com/Freddricklogan/student-engagement-api/actions/workflows/deploy.yml"><img src="https://github.com/Freddricklogan/student-engagement-api/actions/workflows/deploy.yml/badge.svg" alt="CI status for Student Engagement API" height="16" /></a></td>
